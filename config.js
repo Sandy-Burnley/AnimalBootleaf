@@ -2,7 +2,7 @@ var config = {
 	"title": "Bootleaf template map",
 	"start": {
 		// "maxZoom": 16,
-		"center": [38.203,-99.799],
+		"center": [51.531560, -0.156757],
 		"zoom": 4,
 		"attributionControl": true,
 		"zoomControl": false
