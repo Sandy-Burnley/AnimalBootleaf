@@ -67,7 +67,7 @@ var config = {
 	"tocCategories": [
 		{
 			"name": "GeoJSON layers",
-			"layers": ["Flush", "Puck", "Hounds", "us_density"]
+			"layers": ["Flush", "Puck", "us_density"]
 		},
 		{
 			"name": "ArcGIS Layers",
@@ -138,33 +138,6 @@ var config = {
 		  },
 		  "icon": {
 		      "iconUrl": "./img/dog.png",
-		      "iconSize": [24,28]
-		  },
-		  "visible": false,
-		  // "label": {
-		  // 	"name": "NAME",
-		  // 	"minZoom": 14
-		  // }
-		},
-	{
-    "id": "hounds",
-    "name": "HoundOfBaskerville"
-    "type": "geoJSON",
-    "cluster": true,
-    "showCoverageOnHover": false,
-    "minZoom": 12,
-    "url": "./data/Hounds.geojson",
-    "style": {
-        "stroke": true,
-        "fillColor": "#00FFFF",
-        "fillOpacity": 0.5,
-        "radius": 10,
-        "weight": 0.5,
-        "opacity": 1,
-        "color": '#727272'
-		  },
-		  "icon": {
-		      "iconUrl": "./img/sherlock.png",
 		      "iconSize": [24,28]
 		  },
 		  "visible": false,
