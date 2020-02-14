@@ -67,7 +67,7 @@ var config = {
 	"tocCategories": [
 		{
 			"name": "GeoJSON layers",
-			"layers": ["flush", "museums", "us_density"]
+			"layers": ["flush", "puck", "us_density"]
 		},
 		{
 			"name": "ArcGIS Layers",
@@ -120,12 +120,12 @@ var config = {
 	  // }
 	},
 	{
-    "id": "museums",
+    "id": "puck",
     "type": "geoJSON",
     "cluster": true,
     "showCoverageOnHover": false,
     "minZoom": 12,
-    "url": "./data/museums.geojson",
+    "url": "./data/Puck.geojson",
     "style": {
         "stroke": true,
         "fillColor": "#00FFFF",
@@ -136,7 +136,7 @@ var config = {
         "color": '#727272'
 		  },
 		  "icon": {
-		      "iconUrl": "./img/museum.png",
+		      "iconUrl": "./img/dog.png",
 		      "iconSize": [24,28]
 		  },
 		  "visible": false,
