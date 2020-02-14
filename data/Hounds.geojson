@@ -1,0 +1,4425 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.158556,51.523973 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Sherlock Holmes ",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Working",
+    "Relationship":"Partner",
+    "Occupation":"Detective",
+    "Color":"White",
+    "Location":"Baker street",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.481276,52.65397 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Sherlock Holmes ",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Working",
+    "Relationship":"Partner",
+    "Occupation":"Detective",
+    "Color":"White",
+    "Location":"Stamford",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.158556,51.523973 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Sherlock Holmes ",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Working",
+    "Relationship":"Partner",
+    "Occupation":"Detective",
+    "Color":"White",
+    "Location":"Baker street ",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.144877,51.515106 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Sherlock Holmes ",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Working",
+    "Relationship":"Partner",
+    "Occupation":"Detective",
+    "Color":"White",
+    "Location":"Oxford street",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.140612,51.513338 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Sherlock Holmes ",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Working",
+    "Relationship":"Partner",
+    "Occupation":"Detective",
+    "Color":"White",
+    "Location":"Regent street",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.149179,51.514428 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Sherlock Holmes ",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Working",
+    "Relationship":"Partner",
+    "Occupation":"Detective",
+    "Color":"White",
+    "Location":"Bond street",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.122835,51.530498 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Sherlock Holmes ",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Working",
+    "Relationship":"Partner",
+    "Occupation":"Detective",
+    "Color":"White",
+    "Location":"Northumberland hotel",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.158556,51.523973 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Sherlock Holmes ",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Working",
+    "Relationship":"Partner",
+    "Occupation":"Detective",
+    "Color":"White",
+    "Location":"Baker street",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.177216,51.516685 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Sherlock Holmes ",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Working",
+    "Relationship":"Partner",
+    "Occupation":"Detective",
+    "Color":"White",
+    "Location":"Paddington Station",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.995204,50.543817 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Sherlock Holmes ",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Working",
+    "Relationship":"Partner",
+    "Occupation":"Detective",
+    "Color":"White",
+    "Location":"Coombe Tracey",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.920699,50.572073 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Sherlock Holmes ",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Working",
+    "Relationship":"Partner",
+    "Occupation":"Detective",
+    "Color":"White",
+    "Location":"Dartmoor",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.754792,50.520412 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Sherlock Holmes ",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Working",
+    "Relationship":"Partner",
+    "Occupation":"Detective",
+    "Color":"White",
+    "Location":"Baskerville",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.995204,50.543817 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Sherlock Holmes ",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Working",
+    "Relationship":"Partner",
+    "Occupation":"Detective",
+    "Color":"White",
+    "Location":"Coombe Tracey",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.902156,50.582167 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Sherlock Holmes ",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Working",
+    "Relationship":"Partner",
+    "Occupation":"Detective",
+    "Color":"White",
+    "Location":"Merripit House",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.754792,50.520412 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Sherlock Holmes ",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Working",
+    "Relationship":"Partner",
+    "Occupation":"Detective",
+    "Color":"White",
+    "Location":"Baskerville",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.920699,50.572073 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Sherlock Holmes ",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Working",
+    "Relationship":"Partner",
+    "Occupation":"Detective",
+    "Color":"White",
+    "Location":"Dartmoor",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.158556,51.523973 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Sherlock Holmes ",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Working",
+    "Relationship":"Partner",
+    "Occupation":"Detective",
+    "Color":"White",
+    "Location":"Baker street",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.158556,51.523973 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Watson",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Working",
+    "Relationship":"Partner",
+    "Occupation":"Assistant",
+    "Color":"White",
+    "Location":"Baker street",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.144877,51.515106 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Watson",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Working",
+    "Relationship":"Partner",
+    "Occupation":"Assistant",
+    "Color":"White",
+    "Location":"Oxford street",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.140612,51.513338 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Watson",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Working",
+    "Relationship":"Partner",
+    "Occupation":"Assistant",
+    "Color":"White",
+    "Location":"Regent street",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.149179,51.514428 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Watson",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Working",
+    "Relationship":"Partner",
+    "Occupation":"Assistant",
+    "Color":"White",
+    "Location":"Bond street",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.122835,51.530498 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Watson",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Working",
+    "Relationship":"Partner",
+    "Occupation":"Assistant",
+    "Color":"White",
+    "Location":"Northumberland hotel",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.158556,51.523973 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Watson",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Working",
+    "Relationship":"Partner",
+    "Occupation":"Assistant",
+    "Color":"White",
+    "Location":"Baker street",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.177216,51.516685 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Watson",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Working",
+    "Relationship":"Partner",
+    "Occupation":"Assistant",
+    "Color":"White",
+    "Location":"Paddington Station",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.754792,50.520412 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Watson",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Working",
+    "Relationship":"Partner",
+    "Occupation":"Assistant",
+    "Color":"White",
+    "Location":"Baskerville",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.920699,50.572073 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Watson",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Working",
+    "Relationship":"Partner",
+    "Occupation":"Assistant",
+    "Color":"White",
+    "Location":"Dartmoor",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.902156,50.582167 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Watson",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Working",
+    "Relationship":"Partner",
+    "Occupation":"Assistant",
+    "Color":"White",
+    "Location":"Merripit House",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.754792,50.520412 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Watson",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Working",
+    "Relationship":"Partner",
+    "Occupation":"Assistant",
+    "Color":"White",
+    "Location":"Baskerville",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.902156,50.582167 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Watson",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Working",
+    "Relationship":"Partner",
+    "Occupation":"Assistant",
+    "Color":"White",
+    "Location":"Merripit House",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.920699,50.572073 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Watson",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Working",
+    "Relationship":"Partner",
+    "Occupation":"Assistant",
+    "Color":"White",
+    "Location":"Dartmoor",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.754792,50.520412 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Watson",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Working",
+    "Relationship":"Partner",
+    "Occupation":"Assistant",
+    "Color":"White",
+    "Location":"Baskerville",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.920699,50.572073 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Watson",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Working",
+    "Relationship":"Partner",
+    "Occupation":"Assistant",
+    "Color":"White",
+    "Location":"Dartmoor",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.754792,50.520412 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Watson",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Working",
+    "Relationship":"Partner",
+    "Occupation":"Assistant",
+    "Color":"White",
+    "Location":"Baskerville",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.995204,50.543817 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Watson",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Working",
+    "Relationship":"Partner",
+    "Occupation":"Assistant",
+    "Color":"White",
+    "Location":"Coombe Tracey",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.920699,50.572073 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Watson",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Working",
+    "Relationship":"Partner",
+    "Occupation":"Assistant",
+    "Color":"White",
+    "Location":"Dartmoor",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.754792,50.520412 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Watson",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Working",
+    "Relationship":"Partner",
+    "Occupation":"Assistant",
+    "Color":"White",
+    "Location":"Baskerville",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.995204,50.543817 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Watson",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Working",
+    "Relationship":"Partner",
+    "Occupation":"Assistant",
+    "Color":"White",
+    "Location":"Coombe Tracey",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.902156,50.582167 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Watson",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Working",
+    "Relationship":"Partner",
+    "Occupation":"Assistant",
+    "Color":"White",
+    "Location":"Merripit House",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.754792,50.520412 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Watson",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Working",
+    "Relationship":"Partner",
+    "Occupation":"Assistant",
+    "Color":"White",
+    "Location":"Baskerville",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.920699,50.572073 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Watson",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Working",
+    "Relationship":"Partner",
+    "Occupation":"Assistant",
+    "Color":"White",
+    "Location":"Dartmoor",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.158556,51.523973 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Watson",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Working",
+    "Relationship":"Partner",
+    "Occupation":"Assistant",
+    "Color":"White",
+    "Location":"Baker street",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.220813,51.487401 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"James Mortimer",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Working",
+    "Relationship":"Neighbor",
+    "Occupation":"Doctor",
+    "Color":"White",
+    "Location":"Charing Cross Hospital",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.954675,50.830602 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"James Mortimer",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Working",
+    "Relationship":"Neighbor",
+    "Occupation":"Doctor",
+    "Color":"White",
+    "Location":"Devonshire",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.8261,50.585358 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"James Mortimer",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Working",
+    "Relationship":"Neighbor",
+    "Occupation":"Doctor",
+    "Color":"White",
+    "Location":"Grimpin, Dartmoor",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.158556,51.523973 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"James Mortimer",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Working",
+    "Relationship":"Neighbor",
+    "Occupation":"Doctor",
+    "Color":"White",
+    "Location":"Baker street",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.113609,51.50485 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"James Mortimer",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Working",
+    "Relationship":"Neighbor",
+    "Occupation":"Doctor",
+    "Color":"White",
+    "Location":"Waterloo",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.122835,51.530498 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"James Mortimer",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Working",
+    "Relationship":"Neighbor",
+    "Occupation":"Doctor",
+    "Color":"White",
+    "Location":"Northumberland hotel",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.158556,51.523973 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"James Mortimer",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Working",
+    "Relationship":"Neighbor",
+    "Occupation":"Doctor",
+    "Color":"White",
+    "Location":"Baker street ",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.144877,51.515106 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"James Mortimer",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Working",
+    "Relationship":"Neighbor",
+    "Occupation":"Doctor",
+    "Color":"White",
+    "Location":"Oxford street",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.140612,51.513338 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"James Mortimer",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Working",
+    "Relationship":"Neighbor",
+    "Occupation":"Doctor",
+    "Color":"White",
+    "Location":"Regent street",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.122835,51.530498 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"James Mortimer",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Working",
+    "Relationship":"Neighbor",
+    "Occupation":"Doctor",
+    "Color":"White",
+    "Location":"Northumberland hotel",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.184996,55.947976 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"James Mortimer",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Working",
+    "Relationship":"Neighbor",
+    "Occupation":"Doctor",
+    "Color":"White",
+    "Location":"Museum of the College of Surgeons",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.177216,51.516685 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"James Mortimer",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Working",
+    "Relationship":"Neighbor",
+    "Occupation":"Doctor",
+    "Color":"White",
+    "Location":"Paddington Station",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.754792,50.520412 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"James Mortimer",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Working",
+    "Relationship":"Neighbor",
+    "Occupation":"Doctor",
+    "Color":"White",
+    "Location":"Baskerville",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.954675,50.830602 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"James Mortimer",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Working",
+    "Relationship":"Neighbor",
+    "Occupation":"Doctor",
+    "Color":"White",
+    "Location":"Devonshire",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.923026,51.007823 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"James Mortimer",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Working",
+    "Relationship":"Neighbor",
+    "Occupation":"Doctor",
+    "Color":"White",
+    "Location":"Long Down",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.754792,50.520412 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"James Mortimer",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Working",
+    "Relationship":"Neighbor",
+    "Occupation":"Doctor",
+    "Color":"White",
+    "Location":"Baskerville Hall",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.954675,50.830602 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"James Mortimer",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Working",
+    "Relationship":"Neighbor",
+    "Occupation":"Doctor",
+    "Color":"White",
+    "Location":"Devonshire",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.920699,50.572073 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"James Mortimer",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Working",
+    "Relationship":"Neighbor",
+    "Occupation":"Doctor",
+    "Color":"White",
+    "Location":"Dartmoor",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.954675,50.830602 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"James Mortimer",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Working",
+    "Relationship":"Neighbor",
+    "Occupation":"Doctor",
+    "Color":"White",
+    "Location":"Devonshire",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.754792,50.520412 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"James Mortimer",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Working",
+    "Relationship":"Neighbor",
+    "Occupation":"Doctor",
+    "Color":"White",
+    "Location":"Baskerville",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.954675,50.830602 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Sir Charles Baskerville",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Upper",
+    "Relationship":"Son of Charles",
+    "Occupation":"South African speculation",
+    "Color":"White",
+    "Location":"Devonshire",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 23.541182,-31.045836 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Sir Charles Baskerville",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Upper",
+    "Relationship":"Son of Charles",
+    "Occupation":"South African speculation",
+    "Color":"White",
+    "Location":"South Africa",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.954675,50.830602 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Sir Charles Baskerville",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Upper",
+    "Relationship":"Son of Charles",
+    "Occupation":"South African speculation",
+    "Color":"White",
+    "Location":"Devonshire",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.920699,50.572073 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Sir Charles Baskerville",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Upper",
+    "Relationship":"Son of Charles",
+    "Occupation":"South African speculation",
+    "Color":"White",
+    "Location":"Dartmoor",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.754792,50.520412 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Hugo Baskerville",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Upper",
+    "Relationship":"Father to Charles",
+    "Occupation":"Unknown",
+    "Color":"White",
+    "Location":"",
+    "Assumed Location":"Baskerville Hall",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":"Horses and hounds"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.920699,50.572073 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Hugo Baskerville",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Upper",
+    "Relationship":"Father to Charles",
+    "Occupation":"Unknown",
+    "Color":"White",
+    "Location":"",
+    "Assumed Location":"Dartmoor ",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.316559,10.428107 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Roger Baskerville",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Upper",
+    "Relationship":"Brother",
+    "Occupation":"Unknown",
+    "Color":"White",
+    "Location":"Central America ",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"John Baskerville",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Upper",
+    "Relationship":"Brother",
+    "Occupation":"Unknown",
+    "Color":"White",
+    "Location":"",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Elizabeth Baskerville",
+    "Species":"Human",
+    "Gender":"Female",
+    "Breed_Race":"English",
+    "Class":"Upper",
+    "Relationship":"Sister",
+    "Occupation":"Unknown",
+    "Color":"White",
+    "Location":"",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.754792,50.520412 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Barrymore",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Working",
+    "Relationship":"Servant",
+    "Occupation":"Butler ",
+    "Color":"White",
+    "Location":"Baskerville Hall",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.754792,50.520412 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Barrymore",
+    "Species":"Human",
+    "Gender":"Female",
+    "Breed_Race":"English",
+    "Class":"Working",
+    "Relationship":"Servant",
+    "Occupation":"Housekeeper",
+    "Color":"White",
+    "Location":"Baskerville Hall",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.754792,50.520412 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Maiden",
+    "Species":"Human",
+    "Gender":"Female",
+    "Breed_Race":"English",
+    "Class":"Farmgirl",
+    "Relationship":"Daughter of Yeoman",
+    "Occupation":"Farmgirl",
+    "Color":"Unknown",
+    "Location":"Baskerville Hall",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":"Horses and hounds"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.920699,50.572073 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Maiden",
+    "Species":"Human",
+    "Gender":"Female",
+    "Breed_Race":"English",
+    "Class":"Farmgirl",
+    "Relationship":"Daughter of Yeoman",
+    "Occupation":"Farmgirl",
+    "Color":"Unknown",
+    "Location":"Dartmoor",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.920699,50.572073 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Murphy",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"Unknown",
+    "Class":"Poor",
+    "Relationship":"Unknown",
+    "Occupation":"Gypsy horse dealer",
+    "Color":"Unknown",
+    "Location":"Dartmoor",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.136388,39.80792 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Henry Baskerville",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Upper",
+    "Relationship":"Nephew of Charles ",
+    "Occupation":"Prospector ",
+    "Color":"White",
+    "Location":"America",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.533619,60.473491 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Henry Baskerville",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Upper",
+    "Relationship":"Nephew of Charles ",
+    "Occupation":"Prospector ",
+    "Color":"White",
+    "Location":"Canada",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.405645,50.908604 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Henry Baskerville",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Upper",
+    "Relationship":"Nephew of Charles ",
+    "Occupation":"Prospector ",
+    "Color":"White",
+    "Location":"Southampton ",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.113609,51.50485 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Henry Baskerville",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Upper",
+    "Relationship":"Nephew of Charles ",
+    "Occupation":"Prospector ",
+    "Color":"White",
+    "Location":"Waterloo",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.119345,51.511375 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Henry Baskerville",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Upper",
+    "Relationship":"Nephew of Charles ",
+    "Occupation":"Prospector ",
+    "Color":"White",
+    "Location":"Strand",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.122835,51.530498 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Henry Baskerville",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Upper",
+    "Relationship":"Nephew of Charles ",
+    "Occupation":"Prospector ",
+    "Color":"White",
+    "Location":"Northumberland hotel",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.158556,51.523973 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Henry Baskerville",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Upper",
+    "Relationship":"Nephew of Charles ",
+    "Occupation":"Prospector ",
+    "Color":"White",
+    "Location":"Baker street",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.144877,51.515106 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Henry Baskerville",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Upper",
+    "Relationship":"Nephew of Charles ",
+    "Occupation":"Prospector ",
+    "Color":"White",
+    "Location":"Oxford street",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.140612,51.513338 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Henry Baskerville",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Upper",
+    "Relationship":"Nephew of Charles ",
+    "Occupation":"Prospector ",
+    "Color":"White",
+    "Location":"Regent street",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.122835,51.530498 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Henry Baskerville",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Upper",
+    "Relationship":"Nephew of Charles ",
+    "Occupation":"Prospector ",
+    "Color":"White",
+    "Location":"Northumberland hotel",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.15762,51.531397 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Henry Baskerville",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Upper",
+    "Relationship":"Nephew of Charles ",
+    "Occupation":"Prospector ",
+    "Color":"White",
+    "Location":"Regents Park",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.177216,51.516685 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Henry Baskerville",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Upper",
+    "Relationship":"Nephew of Charles ",
+    "Occupation":"Prospector ",
+    "Color":"White",
+    "Location":"Paddington Station",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.754792,50.520412 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Henry Baskerville",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Upper",
+    "Relationship":"Nephew of Charles ",
+    "Occupation":"Prospector ",
+    "Color":"White",
+    "Location":"Baskerville Hall",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.902156,50.582167 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Henry Baskerville",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Upper",
+    "Relationship":"Nephew of Charles ",
+    "Occupation":"Prospector ",
+    "Color":"White",
+    "Location":"Merripit House",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.754792,50.520412 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Henry Baskerville",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Upper",
+    "Relationship":"Nephew of Charles ",
+    "Occupation":"Prospector ",
+    "Color":"White",
+    "Location":"Baskerville Hall",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.902156,50.582167 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Henry Baskerville",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Upper",
+    "Relationship":"Nephew of Charles ",
+    "Occupation":"Prospector ",
+    "Color":"White",
+    "Location":"Merripit House",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.920699,50.572073 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Henry Baskerville",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Upper",
+    "Relationship":"Nephew of Charles ",
+    "Occupation":"Prospector ",
+    "Color":"White",
+    "Location":"Dartmoor",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.754792,50.520412 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Henry Baskerville",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Upper",
+    "Relationship":"Nephew of Charles ",
+    "Occupation":"Prospector ",
+    "Color":"White",
+    "Location":"Baskerville Hall",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.754792,50.520412 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Unknown",
+    "Species":"Cow",
+    "Gender":"Unknown",
+    "Breed_Race":"Unknown",
+    "Class":"Unknown",
+    "Relationship":"None",
+    "Occupation":"Unknown",
+    "Color":"Unknown",
+    "Location":"Baskerville Hall",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.124216,51.50614 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Cartwright",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"Unknown",
+    "Class":"Working",
+    "Relationship":"Acquaintance",
+    "Occupation":"Clerk",
+    "Color":"Unknown",
+    "Location":"23 hotels near Charing Cross",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.126276,51.506416 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Cartwright",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"Unknown",
+    "Class":"Working",
+    "Relationship":"Acquaintance",
+    "Occupation":"Clerk",
+    "Color":"Unknown",
+    "Location":"23 hotels near Charing Cross",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.124454,51.506871 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Cartwright",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"Unknown",
+    "Class":"Working",
+    "Relationship":"Acquaintance",
+    "Occupation":"Clerk",
+    "Color":"Unknown",
+    "Location":"23 hotels near Charing Cross",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.125374,51.507115 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Cartwright",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"Unknown",
+    "Class":"Working",
+    "Relationship":"Acquaintance",
+    "Occupation":"Clerk",
+    "Color":"Unknown",
+    "Location":"23 hotels near Charing Cross",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.125987,51.507115 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Cartwright",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"Unknown",
+    "Class":"Working",
+    "Relationship":"Acquaintance",
+    "Occupation":"Clerk",
+    "Color":"Unknown",
+    "Location":"23 hotels near Charing Cross",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.12471,51.507263 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Cartwright",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"Unknown",
+    "Class":"Working",
+    "Relationship":"Acquaintance",
+    "Occupation":"Clerk",
+    "Color":"Unknown",
+    "Location":"23 hotels near Charing Cross",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.124574,51.508556 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Cartwright",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"Unknown",
+    "Class":"Working",
+    "Relationship":"Acquaintance",
+    "Occupation":"Clerk",
+    "Color":"Unknown",
+    "Location":"23 hotels near Charing Cross",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.129171,51.507497 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Cartwright",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"Unknown",
+    "Class":"Working",
+    "Relationship":"Acquaintance",
+    "Occupation":"Clerk",
+    "Color":"Unknown",
+    "Location":"23 hotels near Charing Cross",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.126719,51.509404 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Cartwright",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"Unknown",
+    "Class":"Working",
+    "Relationship":"Acquaintance",
+    "Occupation":"Clerk",
+    "Color":"Unknown",
+    "Location":"23 hotels near Charing Cross",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.12534,51.510252 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Cartwright",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"Unknown",
+    "Class":"Working",
+    "Relationship":"Acquaintance",
+    "Occupation":"Clerk",
+    "Color":"Unknown",
+    "Location":"23 hotels near Charing Cross",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.127128,51.510252 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Cartwright",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"Unknown",
+    "Class":"Working",
+    "Relationship":"Acquaintance",
+    "Occupation":"Clerk",
+    "Color":"Unknown",
+    "Location":"23 hotels near Charing Cross",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.123569,51.510051 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Cartwright",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"Unknown",
+    "Class":"Working",
+    "Relationship":"Acquaintance",
+    "Occupation":"Clerk",
+    "Color":"Unknown",
+    "Location":"23 hotels near Charing Cross",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.122309,51.510008 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Cartwright",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"Unknown",
+    "Class":"Working",
+    "Relationship":"Acquaintance",
+    "Occupation":"Clerk",
+    "Color":"Unknown",
+    "Location":"23 hotels near Charing Cross",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.126668,51.510644 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Cartwright",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"Unknown",
+    "Class":"Working",
+    "Relationship":"Acquaintance",
+    "Occupation":"Clerk",
+    "Color":"Unknown",
+    "Location":"23 hotels near Charing Cross",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.124522,51.51128 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Cartwright",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"Unknown",
+    "Class":"Working",
+    "Relationship":"Acquaintance",
+    "Occupation":"Clerk",
+    "Color":"Unknown",
+    "Location":"23 hotels near Charing Cross",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.12064,51.510305 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Cartwright",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"Unknown",
+    "Class":"Working",
+    "Relationship":"Acquaintance",
+    "Occupation":"Clerk",
+    "Color":"Unknown",
+    "Location":"23 hotels near Charing Cross",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.120606,51.511005 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Cartwright",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"Unknown",
+    "Class":"Working",
+    "Relationship":"Acquaintance",
+    "Occupation":"Clerk",
+    "Color":"Unknown",
+    "Location":"23 hotels near Charing Cross",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.124642,51.511238 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Cartwright",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"Unknown",
+    "Class":"Working",
+    "Relationship":"Acquaintance",
+    "Occupation":"Clerk",
+    "Color":"Unknown",
+    "Location":"23 hotels near Charing Cross",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.129682,51.510019 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Cartwright",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"Unknown",
+    "Class":"Working",
+    "Relationship":"Acquaintance",
+    "Occupation":"Clerk",
+    "Color":"Unknown",
+    "Location":"23 hotels near Charing Cross",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.128694,51.510708 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Cartwright",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"Unknown",
+    "Class":"Working",
+    "Relationship":"Acquaintance",
+    "Occupation":"Clerk",
+    "Color":"Unknown",
+    "Location":"23 hotels near Charing Cross",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.129903,51.511418 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Cartwright",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"Unknown",
+    "Class":"Working",
+    "Relationship":"Acquaintance",
+    "Occupation":"Clerk",
+    "Color":"Unknown",
+    "Location":"23 hotels near Charing Cross",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.130959,51.510846 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Cartwright",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"Unknown",
+    "Class":"Working",
+    "Relationship":"Acquaintance",
+    "Occupation":"Clerk",
+    "Color":"Unknown",
+    "Location":"23 hotels near Charing Cross",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.131504,51.511026 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Cartwright",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"Unknown",
+    "Class":"Working",
+    "Relationship":"Acquaintance",
+    "Occupation":"Clerk",
+    "Color":"Unknown",
+    "Location":"23 hotels near Charing Cross",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.131674,51.510305 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Cartwright",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"Unknown",
+    "Class":"Working",
+    "Relationship":"Acquaintance",
+    "Occupation":"Clerk",
+    "Color":"Unknown",
+    "Location":"23 hotels near Charing Cross",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.995204,50.543817 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Cartwright",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"Unknown",
+    "Class":"Working",
+    "Relationship":"Acquaintance",
+    "Occupation":"Clerk",
+    "Color":"Unknown",
+    "Location":"Coombe Tracey",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.920699,50.572073 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Cartwright",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"Unknown",
+    "Class":"Working",
+    "Relationship":"Acquaintance",
+    "Occupation":"Clerk",
+    "Color":"Unknown",
+    "Location":"Dartmoor",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.122835,51.530498 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Mrs. Oldmore",
+    "Species":"Human",
+    "Gender":"Female",
+    "Breed_Race":"Unknown",
+    "Class":"Middle",
+    "Relationship":"Husband was mayor",
+    "Occupation":"Unknown",
+    "Color":"Unknown",
+    "Location":"Northumberland hotel",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.122835,51.530498 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Mr. Johnson",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"Unknown",
+    "Class":"Middle",
+    "Relationship":"None",
+    "Occupation":"Coal-owner",
+    "Color":"Unknown",
+    "Location":"Northumberland hotel",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.145127,51.487993 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"James Desmond",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Working",
+    "Relationship":"Cousin to Baskerville",
+    "Occupation":"Clergyman",
+    "Color":"White",
+    "Location":"Westmoreland",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.111946,51.50206 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"John Clayton",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"Unknown",
+    "Class":"Working",
+    "Relationship":"None",
+    "Occupation":"Cab-driver",
+    "Color":"Unknown",
+    "Location":"3 Turpey street",
+    "Assumed Location":"the Borough, near Waterloo station",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.128076,51.508133 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"John Clayton",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"Unknown",
+    "Class":"Working",
+    "Relationship":"None",
+    "Occupation":"Cab-driver",
+    "Color":"Unknown",
+    "Location":"Traflagar Square",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.158556,51.523973 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"John Clayton",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"Unknown",
+    "Class":"Working",
+    "Relationship":"None",
+    "Occupation":"Cab-driver",
+    "Color":"Unknown",
+    "Location":"Baker street",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.140612,51.513338 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"John Clayton",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"Unknown",
+    "Class":"Working",
+    "Relationship":"None",
+    "Occupation":"Cab-driver",
+    "Color":"Unknown",
+    "Location":"Regent street",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.112284,51.503339 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"John Clayton",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"Unknown",
+    "Class":"Working",
+    "Relationship":"None",
+    "Occupation":"Cab-driver",
+    "Color":"Unknown",
+    "Location":"Waterloo Station",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.920699,50.572073 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Unknown",
+    "Species":"Bird",
+    "Gender":"Unknown",
+    "Breed_Race":"Unknown",
+    "Class":"Unknown",
+    "Relationship":"Unknown",
+    "Occupation":"Bittern",
+    "Color":"Unknown",
+    "Location":"Dartmoor",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.208196,10.367708 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Stapleton",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Middle",
+    "Relationship":"Neighbor",
+    "Occupation":"Naturalist",
+    "Color":"White",
+    "Location":"Costa Rica",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.152752,54.263246 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Stapleton",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Middle",
+    "Relationship":"Neighbor",
+    "Occupation":"Naturalist",
+    "Color":"White",
+    "Location":"Yorkshire",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.902156,50.582167 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Stapleton",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Middle",
+    "Relationship":"Neighbor",
+    "Occupation":"Naturalist",
+    "Color":"White",
+    "Location":"Merripit House",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.920699,50.572073 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Stapleton",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Middle",
+    "Relationship":"Neighbor",
+    "Occupation":"Naturalist",
+    "Color":"White",
+    "Location":"Dartmoor",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.902156,50.582167 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Stapleton",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Middle",
+    "Relationship":"Neighbor",
+    "Occupation":"Naturalist",
+    "Color":"White",
+    "Location":"Merripit House",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.995204,50.543817 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Stapleton",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Middle",
+    "Relationship":"Neighbor",
+    "Occupation":"Naturalist",
+    "Color":"White",
+    "Location":"Coombe Tracey",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.902156,50.582167 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Stapleton",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Middle",
+    "Relationship":"Neighbor",
+    "Occupation":"Naturalist",
+    "Color":"White",
+    "Location":"Merripit House",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.12486,51.507708 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Stapleton",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Middle",
+    "Relationship":"Neighbor",
+    "Occupation":"Naturalist",
+    "Color":"White",
+    "Location":"Mexborough Private Hotel in Craven Street",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.158556,51.523973 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Stapleton",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Middle",
+    "Relationship":"Neighbor",
+    "Occupation":"Naturalist",
+    "Color":"White",
+    "Location":"Baker street",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.112284,51.503339 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Stapleton",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Middle",
+    "Relationship":"Neighbor",
+    "Occupation":"Naturalist",
+    "Color":"White",
+    "Location":"Waterloo Station",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.122835,51.530498 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Stapleton",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Middle",
+    "Relationship":"Neighbor",
+    "Occupation":"Naturalist",
+    "Color":"White",
+    "Location":"Northumberland hotel",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.754792,50.520412 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Stapleton",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Middle",
+    "Relationship":"Neighbor",
+    "Occupation":"Naturalist",
+    "Color":"White",
+    "Location":"Baskerville Hall",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.902156,50.582167 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Stapleton",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Middle",
+    "Relationship":"Neighbor",
+    "Occupation":"Naturalist",
+    "Color":"White",
+    "Location":"Merripit House",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.920699,50.572073 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Stapleton",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Middle",
+    "Relationship":"Neighbor",
+    "Occupation":"Naturalist",
+    "Color":"White",
+    "Location":"Dartmoor",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.902156,50.582167 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Stapleton",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Middle",
+    "Relationship":"Neighbor",
+    "Occupation":"Naturalist",
+    "Color":"White",
+    "Location":"Merripit House",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.920699,50.572073 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Stapleton",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"English",
+    "Class":"Middle",
+    "Relationship":"Neighbor",
+    "Occupation":"Naturalist",
+    "Color":"White",
+    "Location":"Dartmoor",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.8261,50.585358 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Unknown",
+    "Species":"Pony",
+    "Gender":"Unknown",
+    "Breed_Race":"Unknown",
+    "Class":"Unknown",
+    "Relationship":"Unknown",
+    "Occupation":"Unknown",
+    "Color":"Unknown",
+    "Location":"Dartmoor",
+    "Assumed Location":"Grinpen Mire",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.208196,10.367708 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Miss Stapleton",
+    "Species":"Human",
+    "Gender":"Female",
+    "Breed_Race":"English",
+    "Class":"Middle",
+    "Relationship":"Wife of Stapleton",
+    "Occupation":"Unknown",
+    "Color":"White",
+    "Location":"Costa Rica",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.152752,54.263246 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Miss Stapleton",
+    "Species":"Human",
+    "Gender":"Female",
+    "Breed_Race":"English",
+    "Class":"Middle",
+    "Relationship":"Wife of Stapleton",
+    "Occupation":"Unknown",
+    "Color":"White",
+    "Location":"Yorkshire",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.902156,50.582167 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Miss Stapleton",
+    "Species":"Human",
+    "Gender":"Female",
+    "Breed_Race":"English",
+    "Class":"Middle",
+    "Relationship":"Wife of Stapleton",
+    "Occupation":"Unknown",
+    "Color":"White",
+    "Location":"Merripit House",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.12486,51.507708 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Miss Stapleton",
+    "Species":"Human",
+    "Gender":"Female",
+    "Breed_Race":"English",
+    "Class":"Middle",
+    "Relationship":"Wife of Stapleton",
+    "Occupation":"Unknown",
+    "Color":"White",
+    "Location":"Mexborough Private Hotel in Craven Street",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.920699,50.572073 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Miss Stapleton",
+    "Species":"Human",
+    "Gender":"Female",
+    "Breed_Race":"English",
+    "Class":"Middle",
+    "Relationship":"Wife of Stapleton",
+    "Occupation":"Unknown",
+    "Color":"White",
+    "Location":"Dartmoor",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.902156,50.582167 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Miss Stapleton",
+    "Species":"Human",
+    "Gender":"Female",
+    "Breed_Race":"English",
+    "Class":"Middle",
+    "Relationship":"Wife of Stapleton",
+    "Occupation":"Unknown",
+    "Color":"White",
+    "Location":"Merripit House",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.754792,50.520412 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Miss Stapleton",
+    "Species":"Human",
+    "Gender":"Female",
+    "Breed_Race":"English",
+    "Class":"Middle",
+    "Relationship":"Wife of Stapleton",
+    "Occupation":"Unknown",
+    "Color":"White",
+    "Location":"Baskerville Hall",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.902156,50.582167 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Miss Stapleton",
+    "Species":"Human",
+    "Gender":"Female",
+    "Breed_Race":"English",
+    "Class":"Middle",
+    "Relationship":"Wife of Stapleton",
+    "Occupation":"Unknown",
+    "Color":"White",
+    "Location":"Merripit House",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.920699,50.572073 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Miss Stapleton",
+    "Species":"Human",
+    "Gender":"Female",
+    "Breed_Race":"English",
+    "Class":"Middle",
+    "Relationship":"Wife of Stapleton",
+    "Occupation":"Unknown",
+    "Color":"White",
+    "Location":"Dartmoor",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.902156,50.582167 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Miss Stapleton",
+    "Species":"Human",
+    "Gender":"Female",
+    "Breed_Race":"English",
+    "Class":"Middle",
+    "Relationship":"Wife of Stapleton",
+    "Occupation":"Unknown",
+    "Color":"White",
+    "Location":"Merripit House",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.920699,50.572073 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Miss Stapleton",
+    "Species":"Human",
+    "Gender":"Female",
+    "Breed_Race":"English",
+    "Class":"Middle",
+    "Relationship":"Wife of Stapleton",
+    "Occupation":"Unknown",
+    "Color":"White",
+    "Location":"Dartmoor",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.978557,50.560548 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Seldon",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"Unknown",
+    "Class":"Poor",
+    "Relationship":"Criminal, Murder of Notting Hill",
+    "Occupation":"Brother to Mrs. Barrymore",
+    "Color":"Unknown",
+    "Location":"Dartmoor",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.954675,50.830602 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Mr. Frankland",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"Unknown",
+    "Class":"Middle",
+    "Relationship":"Lawyer",
+    "Occupation":"Unknown",
+    "Color":"Unknown",
+    "Location":"Devonshire",
+    "Assumed Location":"Lafter Hall",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.995204,50.543817 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Laura Lyons",
+    "Species":"Human",
+    "Gender":"Female",
+    "Breed_Race":"Unknown",
+    "Class":"Middle",
+    "Relationship":"daughter to Frankland",
+    "Occupation":"Unknown",
+    "Color":"Unknown",
+    "Location":"Coombe Tracey",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.127722,51.530871 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Lestrade",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"French",
+    "Class":"Working",
+    "Relationship":"Friend",
+    "Occupation":"Detective",
+    "Color":"Unknown",
+    "Location":"London",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.995204,50.543817 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Lestrade",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"French",
+    "Class":"Working",
+    "Relationship":"Friend",
+    "Occupation":"Detective",
+    "Color":"Unknown",
+    "Location":"Coombe Tracey",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.902156,50.582167 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Lestrade",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"French",
+    "Class":"Working",
+    "Relationship":"Friend",
+    "Occupation":"Detective",
+    "Color":"Unknown",
+    "Location":"Merripit House",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.187482,51.481786 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Hound",
+    "Species":"Dog",
+    "Gender":"Unknown",
+    "Breed_Race":"Mutt",
+    "Class":"Pet",
+    "Relationship":"Mastiff and Hound",
+    "Occupation":"Owned by Stapleton",
+    "Color":"Black",
+    "Location":"Fulham road",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.887277,51.089079 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Hound",
+    "Species":"Dog",
+    "Gender":"Unknown",
+    "Breed_Race":"Mutt",
+    "Class":"Pet",
+    "Relationship":"Mastiff and Hound",
+    "Occupation":"Owned by Stapleton",
+    "Color":"Black",
+    "Location":"North Devon line",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.8261,50.585358 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Hound",
+    "Species":"Dog",
+    "Gender":"Unknown",
+    "Breed_Race":"Mutt",
+    "Class":"Pet",
+    "Relationship":"Mastiff and Hound",
+    "Occupation":"Owned by Stapleton",
+    "Color":"Black",
+    "Location":"Grimpen Mire",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.208196,10.367708 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Antonio/Anthony",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"South American",
+    "Class":"Working",
+    "Relationship":"Servant ",
+    "Occupation":"Servant to Stapleton",
+    "Color":"Unknown",
+    "Location":"Costa Rica",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.152752,54.263246 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Antonio/Anthony",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"South American",
+    "Class":"Working",
+    "Relationship":"Servant ",
+    "Occupation":"Servant to Stapleton",
+    "Color":"Unknown",
+    "Location":"Yorkshire",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.902156,50.582167 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Antonio/Anthony",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"South American",
+    "Class":"Working",
+    "Relationship":"Servant ",
+    "Occupation":"Servant to Stapleton",
+    "Color":"Unknown",
+    "Location":"Merripit House",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.920699,50.572073 ]
+    },
+    "properties": {
+    "Title":"Hound of the Baskervilles ",
+    "Author":"Sir Arthur Conan Doyle",
+    "Character":"Antonio/Anthony",
+    "Species":"Human",
+    "Gender":"Male",
+    "Breed_Race":"South American",
+    "Class":"Working",
+    "Relationship":"Servant ",
+    "Occupation":"Servant to Stapleton",
+    "Color":"Unknown",
+    "Location":"Dartmoor",
+    "Assumed Location":"",
+    "Degrees":"",
+    "Longevity":"",
+    "Description":"",
+    "Page Number":"",
+    "Marginalized Associates":""
+    }
+  }
+]
+}
