@@ -146,34 +146,6 @@ var config = {
 		  // 	"minZoom": 14
 		  // }
 		},
-				"layers": [
-	{
-    "id": "flush",
-    "name": "Flush",
-    "type": "geoJSON",
-    "cluster": true,
-    "showCoverageOnHover": false,
-    "minZoom": 12,
-    "url": "./data/Flush.geojson",
-    "icon": {
-        "iconUrl": "./img/dog.png",
-        "iconSize": [24,28]
-    },
-    "style": {
-    "stroke": true,
-    "fillColor": "#00FFFF",
-    "fillOpacity": 0.5,
-    "radius": 10,
-    "weight": 0.5,
-    "opacity": 1,
-    "color": '#727272',
-    },
-	  "visible": false,
-	  // "label": {
-	  // 	"name": "NAME",
-	  // 	"minZoom": 14
-	  // }
-	},
 	{
     "id": "hounds",
     "name": "HoundOfBaskerville"
