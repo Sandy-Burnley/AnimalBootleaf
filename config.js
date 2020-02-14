@@ -67,7 +67,7 @@ var config = {
 	"tocCategories": [
 		{
 			"name": "GeoJSON layers",
-			"layers": ["theatres", "museums", "us_density"]
+			"layers": ["flush", "museums", "us_density"]
 		},
 		{
 			"name": "ArcGIS Layers",
@@ -93,15 +93,15 @@ var config = {
 	},
 	"layers": [
 	{
-    "id": "theatres",
-    "name": "Theatres",
+    "id": "flush",
+    "name": "Flush",
     "type": "geoJSON",
     "cluster": true,
     "showCoverageOnHover": false,
     "minZoom": 12,
-    "url": "./data/theatres.geojson",
+    "url": "./data/Flush.geojson",
     "icon": {
-        "iconUrl": "./img/theater.png",
+        "iconUrl": "./img/dog.png",
         "iconSize": [24,28]
     },
     "style": {
