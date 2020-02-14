@@ -67,7 +67,7 @@ var config = {
 	"tocCategories": [
 		{
 			"name": "GeoJSON layers",
-			"layers": ["theatres", "museums", "us_density"]
+			"layers": ["puck", "flush", "hound", "theatres", "museums", "us_density"]
 		},
 		{
 			"name": "ArcGIS Layers",
@@ -93,6 +93,60 @@ var config = {
 	},
 	"layers": [
 	{
+    "id": "puck",
+    "name": "Puck",
+    "type": "geoJSON",
+    "cluster": true,
+    "showCoverageOnHover": false,
+    "minZoom": 12,
+    "url": "./data/puck.geojson",
+    "icon": {
+        "iconUrl": "./img/dog.png",
+        "iconSize": [24,28]
+    },
+    "style": {
+    "stroke": true,
+    "fillColor": "#00FFFF",
+    "fillOpacity": 0.5,
+    "radius": 10,
+    "weight": 0.5,
+    "opacity": 1,
+    "color": '#727272',
+    },
+	  "visible": false,
+	  // "label": {
+	  // 	"name": "NAME",
+	  // 	"minZoom": 14
+	  // }
+	},
+		{
+    "id": "flush",
+    "name": "Flush",
+    "type": "geoJSON",
+    "cluster": true,
+    "showCoverageOnHover": false,
+    "minZoom": 12,
+    "url": "./data/flush.geojson",
+    "icon": {
+        "iconUrl": "./img/dog.png",
+        "iconSize": [24,28]
+    },
+    "style": {
+    "stroke": true,
+    "fillColor": "#00FFFF",
+    "fillOpacity": 0.5,
+    "radius": 10,
+    "weight": 0.5,
+    "opacity": 1,
+    "color": '#727272',
+    },
+	  "visible": false,
+	  // "label": {
+	  // 	"name": "NAME",
+	  // 	"minZoom": 14
+	  // }
+	},
+		{
     "id": "theatres",
     "name": "Theatres",
     "type": "geoJSON",
