@@ -1,5 +1,5 @@
 var config = {
-	"title": "Bootleaf template map",
+	"title": "Mapping Animal Presence",
 	"start": {
 		// "maxZoom": 16,
 		"center": [51.531560, -0.156757],
@@ -8,8 +8,8 @@ var config = {
 		"zoomControl": false
 	},
 	"about": {
-		"title": "Bootleaf application template",
-		"contents": "<p>This is an open-source version of the excellent <a href='https://github.com/bmcbride/bootleaf'>Bootleaf map </a>started by Bryan McBride.</p><p>It's designed for rapid web map development. See <a href='https://github.com/iag-geo/bootleaf'>https://github.com/iag-geo/bootleaf</a> for more information.</p><p>Chage this message in the config file</p>"
+		"title": "About the map",
+		"contents": "<p>This map is designed to map human and nonhuman presence across a Victorian landscape in order to allow users to explore how Victorians defined, challenged, and altered what it meant to be human against a nonhuman backdrop. Such humanist ideals can include, but are not limited to, issues of race, class, gender, sexuality, and ability, and how Victorian's perceived these ideals in the precarious zones of nonhuman entanglement and proximity. <br> Using this open source version of Bootleaf, created by Brian McBride and improved by IAG-geo led by Stephen Lead, users can use this map and the associated query widget to target any text or attribute designated within the map.</p>"
 	},
 	"controls": {
 		"zoom": {
@@ -39,10 +39,10 @@ var config = {
 			"places": [
 				{
 				"latlng": [
-					40.7916, -73.9924
+					51.531209, -0.157110
 				],
 				"zoom": 12,
-				"name": "Manhattan",
+				"name": "Regents Park",
 				"id": "a148fa354ba3",
 				"editable": true,
 				"removable": true
@@ -53,7 +53,7 @@ var config = {
 	// "activeTool": "identify", // options are identify/coordinates/queryWidget
 	"basemaps": ['esriGray', 'esriDarkGray', 'esriStreets', 'OpenStreetMap', "Aerial"],
 	"bing_key": "enter your Bing Maps key",
-	"mapboxKey": "enter your MapBox key",
+	"mapboxKey": "pk.eyJ1IjoiYnVybmxleTIiLCJhIjoiY2s1aWpucm13MDlrcTN0cDRsMHhpaTdzZiJ9.hYC-K6YuQGmhlzU9ERFlQA",
 	// "defaultIcon": {
 	// 	"imagePath": "http://leafletjs.com/examples/custom-icons/",
 	// 	"iconUrl": "leaf-green.png",
@@ -71,7 +71,7 @@ var config = {
 		},
 		{
 			"name": "ArcGIS Layers",
-			"layers" : ["trees", "counties", "railways", "us_states"]
+			"layers" : ["male", "female", "dog", "human", "horse", "cattle", "bird", "aristocrat", "poor", "working_class", "race", "trees", "counties", "railways", "us_states"]
 		},
 		{
 			"name": "WMS/WFS layers",
