@@ -227,6 +227,51 @@ var config = {
 		  // }
 		},
 		{
+			"id": "male",
+			"name": "Male",
+			"type": "agsFeatureLayer",
+			"cluster": true,
+			"showCoverageOnHover": false,
+			"removeOutsideVisibleBounds": true,
+			"url": "https://services.arcgis.com/rOo16HdIMeOBI4Mb/arcgis/rest/services/Heritage_Trees_Portland/FeatureServer/0",
+			"popup": true,
+			"tooltipField": "COMMON_NAM",
+			"outFields": [
+				{"type": "OID",	"name": "FID"},
+				{"name": "COMMON_NAM", "alias": "Common Name"},
+				{"name": "SCIENTIFIC", "alias": "Scientific Name"},
+				{"name": "ADDRESS", "alias": "Address"},
+				{"name": "HEIGHT", "alias": "Height (m)", "decimals": 2},
+				{"name": "CIRCUMFERE", "alias": "Circumerence (m)"},
+				{"name": "YEAR", "alias": "Year"},
+				{"name": "OWNER", "alias": "Owner"},
+				{"name": "NOTES", "alias": "Notes"}
+			],
+			"visible": true,
+			"queryWidget": {
+				"queries" : [
+					{"name": "COMMON_NAM", "alias": "Common name", "defaultOperator": "starts with"},
+					{"name": "SCIENTIFIC", "alias": "Scientific name"}
+				],
+				"outFields": [
+					{"name": "COMMON_NAM", "alias": "Name"},
+					{"name": "SCIENTIFIC", "alias": "Sci. name"},
+					{"name": "HEIGHT", hidden: true},
+					{"name": "DIAMETER", "hidden": true}
+				]
+			},
+			"style": {
+				"stroke": true,
+		    "fillColor": "#00FFFF",
+		    "fillOpacity": 0.5,
+		    "radius": 10,
+		    "weight": 0.5,
+		    "opacity": 1,
+		    "color": '#727272'
+		  },
+			"minZoom": 7
+		},
+		{
 			"id": "trees",
 			"name": "Heritage trees (feature)",
 			"type": "agsFeatureLayer",
