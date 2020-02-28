@@ -249,14 +249,14 @@ var config = {
 			"visible": true,
 			"queryWidget": {
 				"queries" : [
-					{"name": "Author", "alias": "author", "defaultOperator": "starts with"},
-					{"name": "Character", "alias": "character"}
+					{"name": "COMMON_NAM", "alias": "Common name", "defaultOperator": "starts with"},
+					{"name": "SCIENTIFIC", "alias": "Scientific name"}
 				],
 				"outFields": [
-					{"name": "Author", "alias": "author"},
-					{"name": "Title", "alias": "title"},
-					{"name": "Character", "alias": "character"}
-					{"name": "Gender", "alias": "gender"}
+					{"name": "COMMON_NAM", "alias": "Name"},
+					{"name": "SCIENTIFIC", "alias": "Sci. name"},
+					{"name": "HEIGHT", hidden: true},
+					{"name": "DIAMETER", "hidden": true}
 				]
 			},
 			"style": {
