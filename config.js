@@ -71,7 +71,7 @@ var config = {
 		},
 		{
 			"name": "ArcGIS Layers",
-			"layers" : ["male", "female", "dog", "human", "horse", "cattle", "bird", "aristocrat", "poor", "working_class", "race", "trees", "counties", "railways", "us_states"]
+			"layers" : ["Puck_Map", "trees", "counties", "railways", "us_states"]
 		},
 		{
 			"name": "WMS/WFS layers",
@@ -227,25 +227,24 @@ var config = {
 		  // }
 		},
 		{
-			"id": "male",
-			"name": "Male",
+			"id": "Puck_Map",
+			"name": "Puck Attributes (feature)",
 			"type": "agsFeatureLayer",
 			"cluster": true,
 			"showCoverageOnHover": false,
 			"removeOutsideVisibleBounds": true,
-			"url": "https://services.arcgis.com/rOo16HdIMeOBI4Mb/arcgis/rest/services/Heritage_Trees_Portland/FeatureServer/0",
+			"url": "https://services.arcgis.com/uHAHKfH1Z5ye1Oe0/arcgis/rest/services/PuckMap/FeatureServer",
 			"popup": true,
-			"tooltipField": "COMMON_NAM",
+			"tooltipField": "Character",
 			"outFields": [
 				{"type": "OID",	"name": "FID"},
-				{"name": "COMMON_NAM", "alias": "Common Name"},
-				{"name": "SCIENTIFIC", "alias": "Scientific Name"},
-				{"name": "ADDRESS", "alias": "Address"},
-				{"name": "HEIGHT", "alias": "Height (m)", "decimals": 2},
-				{"name": "CIRCUMFERE", "alias": "Circumerence (m)"},
-				{"name": "YEAR", "alias": "Year"},
-				{"name": "OWNER", "alias": "Owner"},
-				{"name": "NOTES", "alias": "Notes"}
+				{"name": "Species", "alias": "species"},
+				{"name": "Character", "alias": "character"},
+				{"name": "Location", "alias": "location"},
+				{"name": "Class", "alias": "class"},
+				{"name": "Gender", "alias": "gender"},
+				{"name": "Author", "alias": "author"},
+				{"name": "Breed_Race", "alias": "race"},
 			],
 			"visible": true,
 			"queryWidget": {
