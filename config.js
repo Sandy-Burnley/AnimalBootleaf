@@ -231,7 +231,7 @@ var config = {
 			"name": "Puck Attributes (feature)",
 			"type": "agsFeatureLayer",
 			"cluster": true,
-			"showCoverageOnHover": false,
+			"showCoverageOnHover": true,
 			"removeOutsideVisibleBounds": true,
 			"url": "https://services.arcgis.com/uHAHKfH1Z5ye1Oe0/arcgis/rest/services/PuckMap/FeatureServer",
 			"popup": true,
@@ -249,14 +249,14 @@ var config = {
 			"visible": true,
 			"queryWidget": {
 				"queries" : [
-					{"name": "COMMON_NAM", "alias": "Common name", "defaultOperator": "starts with"},
-					{"name": "SCIENTIFIC", "alias": "Scientific name"}
+					{"name": "Author", "alias": "author", "defaultOperator": "starts with"},
+					{"name": "Character", "alias": "character"}
 				],
 				"outFields": [
-					{"name": "COMMON_NAM", "alias": "Name"},
-					{"name": "SCIENTIFIC", "alias": "Sci. name"},
-					{"name": "HEIGHT", hidden: true},
-					{"name": "DIAMETER", "hidden": true}
+					{"name": "Author", "alias": "author"},
+					{"name": "Title", "alias": "title"},
+					{"name": "Character", "alias": "character"}
+					{"name": "Gender", "alias": "gender"}
 				]
 			},
 			"style": {
