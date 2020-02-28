@@ -71,7 +71,7 @@ var config = {
 		},
 		{
 			"name": "ArcGIS Layers",
-			"layers" : ["Puck_Map", "trees", "counties", "railways", "us_states"]
+			"layers" : ["Puck_Map", "Hounds", "trees", "counties", "railways", "us_states"]
 		},
 		{
 			"name": "WMS/WFS layers",
@@ -234,6 +234,50 @@ var config = {
 			"showCoverageOnHover": false,
 			"removeOutsideVisibleBounds": true,
 			"url": "https://services.arcgis.com/uHAHKfH1Z5ye1Oe0/arcgis/rest/services/PuckMap/FeatureServer",
+			"popup": true,
+			"tooltipField": "Character",
+			"outFields": [
+				{"type": "OID",	"name": "FID"},
+				{"name": "Species", "alias": "species"},
+				{"name": "Character", "alias": "character"},
+				{"name": "Location", "alias": "location"},
+				{"name": "Class", "alias": "class"},
+				{"name": "Gender", "alias": "gender"},
+				{"name": "Author", "alias": "author"},
+				{"name": "Breed_Race", "alias": "race"},
+			],
+			"visible": true,
+			"queryWidget": {
+				"queries" : [
+					{"name": "COMMON_NAM", "alias": "Common name", "defaultOperator": "starts with"},
+					{"name": "SCIENTIFIC", "alias": "Scientific name"}
+				],
+				"outFields": [
+					{"name": "COMMON_NAM", "alias": "Name"},
+					{"name": "SCIENTIFIC", "alias": "Sci. name"},
+					{"name": "HEIGHT", hidden: true},
+					{"name": "DIAMETER", "hidden": true}
+				]
+			},
+			"style": {
+				"stroke": true,
+		    "fillColor": "#00FFFF",
+		    "fillOpacity": 0.5,
+		    "radius": 10,
+		    "weight": 0.5,
+		    "opacity": 1,
+		    "color": '#727272'
+		  },
+			"minZoom": 7
+		},
+		{
+			"id": "Hounds",
+			"name": "Hounds Attributes (feature)",
+			"type": "agsFeatureLayer",
+			"cluster": true,
+			"showCoverageOnHover": false,
+			"removeOutsideVisibleBounds": true,
+			"url": "https://services.arcgis.com/uHAHKfH1Z5ye1Oe0/arcgis/rest/services/Hounds/FeatureServer",
 			"popup": true,
 			"tooltipField": "Character",
 			"outFields": [
