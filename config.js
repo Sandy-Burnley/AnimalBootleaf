@@ -231,7 +231,7 @@ var config = {
 			"name": "Puck Attributes (feature)",
 			"type": "agsFeatureLayer",
 			"cluster": true,
-			"showCoverageOnHover": true,
+			"showCoverageOnHover": false,
 			"removeOutsideVisibleBounds": true,
 			"url": "https://services.arcgis.com/uHAHKfH1Z5ye1Oe0/arcgis/rest/services/PuckMap/FeatureServer",
 			"popup": true,
