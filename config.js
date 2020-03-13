@@ -67,11 +67,11 @@ var config = {
 	"tocCategories": [
 		{
 			"name": "GeoJSON layers",
-			"layers": ["puck", "flush", "hound", "theatres", "museums", "us_density"]
+			"layers": ["puck", "flush", "hound"]
 		},
 		{
 			"name": "ArcGIS Layers",
-			"layers" : ["Puck_Map", "Hounds", "Flush", "trees", "counties", "railways", "us_states"]
+			"layers" : ["Puck_Map", "Hounds", "Flush"]
 		},
 	],
 	"projections": [
@@ -172,7 +172,7 @@ var config = {
 			"id": "Puck_Map",
 			"name": "Puck Attributes (feature)",
 			"type": "agsFeatureLayer",
-			"cluster": true,
+			"cluster": false,
 			"showCoverageOnHover": false,
 			"removeOutsideVisibleBounds": true,
 			"url": "https://services.arcgis.com/uHAHKfH1Z5ye1Oe0/arcgis/rest/services/PuckMap/FeatureServer",
