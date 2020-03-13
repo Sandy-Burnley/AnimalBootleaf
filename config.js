@@ -114,10 +114,10 @@ var config = {
     "color": '#727272',
     },
 	  "visible": false,
-	  //"label": {
-	  //	"name": "Character",
-	  //"minZoom": 14
-	  // }
+	  "label": {
+	  	"name": "Character",
+	  "minZoom": 14
+	   }
 	},
 		{
     "id": "flush",
