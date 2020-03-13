@@ -73,9 +73,6 @@ var config = {
 			"name": "ArcGIS Layers",
 			"layers" : ["Puck_Map", "Hounds", "Flush", "trees", "counties", "railways", "us_states"]
 		},
-		{
-			"name": "WMS/WFS layers",
-		}
 	],
 	"projections": [
 		{4269: '+proj=longlat +ellps=GRS80 +datum=NAD83 +no_defs '}
