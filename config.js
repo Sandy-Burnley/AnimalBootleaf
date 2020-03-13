@@ -136,10 +136,10 @@ var config = {
     "color": '#727272',
     },
 	  "visible": false,
-	  // "label": {
-	  // 	"name": "NAME",
-	  // 	"minZoom": 14
-	  // }
+	  "label": {
+	  	"name": "Character",
+	  	"minZoom": 14
+	  }
 	},
 		{
     "id": "hound",
@@ -163,64 +163,11 @@ var config = {
     "color": '#727272',
     },
 	  "visible": false,
-	  // "label": {
-	  // 	"name": "NAME",
-	  // 	"minZoom": 14
-	  // }
+	  "label": {
+	  	"name": "Character",
+	  	"minZoom": 14
+	   }
 	},
-		{
-    "id": "theatres",
-    "name": "Theatres",
-    "type": "geoJSON",
-    "cluster": true,
-    "showCoverageOnHover": false,
-    "minZoom": 12,
-    "url": "./data/theatres.geojson",
-    "icon": {
-        "iconUrl": "./img/theater.png",
-        "iconSize": [24,28]
-    },
-    "style": {
-    "stroke": true,
-    "fillColor": "#00FFFF",
-    "fillOpacity": 0.5,
-    "radius": 10,
-    "weight": 0.5,
-    "opacity": 1,
-    "color": '#727272',
-    },
-	  "visible": false,
-	  // "label": {
-	  // 	"name": "NAME",
-	  // 	"minZoom": 14
-	  // }
-	},
-	{
-    "id": "museums",
-    "type": "geoJSON",
-    "cluster": true,
-    "showCoverageOnHover": false,
-    "minZoom": 12,
-    "url": "./data/museums.geojson",
-    "style": {
-        "stroke": true,
-        "fillColor": "#00FFFF",
-        "fillOpacity": 0.5,
-        "radius": 10,
-        "weight": 0.5,
-        "opacity": 1,
-        "color": '#727272'
-		  },
-		  "icon": {
-		      "iconUrl": "./img/museum.png",
-		      "iconSize": [24,28]
-		  },
-		  "visible": false,
-		  // "label": {
-		  // 	"name": "NAME",
-		  // 	"minZoom": 14
-		  // }
-		},
 		{
 			"id": "Puck_Map",
 			"name": "Puck Attributes (feature)",
