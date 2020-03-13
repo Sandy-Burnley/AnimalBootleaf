@@ -115,7 +115,7 @@ var config = {
     },
 	  "visible": true,
 	  "label": {
-	  	"name": "NAME",
+	  	"name": "Character",
 	  "minZoom": 14
 	  }
 	},
