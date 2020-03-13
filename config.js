@@ -124,7 +124,7 @@ var config = {
     "name": "Flush",
     "type": "geoJSON",
     "cluster": true,
-    "showCoverageOnHover": false,
+    "showCoverageOnHover": true,
     "minZoom": 12,
     "url": "./data/flush.geojson",
     "icon": {
@@ -151,7 +151,7 @@ var config = {
     "name": "Hound",
     "type": "geoJSON",
     "cluster": true,
-    "showCoverageOnHover": false,
+    "showCoverageOnHover": true,
     "minZoom": 12,
     "url": "./data/hound.geojson",
     "icon": {
