@@ -75,8 +75,6 @@ var config = {
 		},
 		{
 			"name": "WMS/WFS layers",
-			"layers": ["US_population", "countries"],
-			"exclusive": false
 		}
 	],
 	"projections": [
