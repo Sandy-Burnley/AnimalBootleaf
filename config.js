@@ -113,11 +113,11 @@ var config = {
     "opacity": 1,
     "color": '#727272',
     },
-	  "visible": false,
-	  // "label": {
-	  // 	"name": "NAME",
-	  // 	"minZoom": 14
-	  // }
+	  "visible": true,
+	  "label": {
+	  	"name": "NAME",
+	  "minZoom": 14
+	  }
 	},
 		{
     "id": "flush",
