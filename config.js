@@ -180,8 +180,8 @@ var config = {
 			"tooltipField": "Character",
 			"outFields": [
 				{"type": "OID",	"name": "FID"},
-				{"name": "Species", "alias": "species"},
 				{"name": "Character", "alias": "character"},
+				{"name": "Species", "alias": "species"},
 				{"name": "Location", "alias": "location"},
 				{"name": "Class", "alias": "class"},
 				{"name": "Gender", "alias": "gender"},
@@ -191,12 +191,12 @@ var config = {
 			"visible": true,
 			"queryWidget": {
 				"queries" : [
-					{"name": "COMMON_NAM", "alias": "Common name", "defaultOperator": "starts with"},
-					{"name": "SCIENTIFIC", "alias": "Scientific name"}
+					{"name": "Character", "alias": "Character", "defaultOperator": "starts with"},
+					{"name": "Species", "alias": "species"}
 				],
 				"outFields": [
-					{"name": "COMMON_NAM", "alias": "Name"},
-					{"name": "SCIENTIFIC", "alias": "Sci. name"},
+					{"name": "Character", "alias": "character"},
+					{"name": "Species", "alias": "species"},
 					{"name": "HEIGHT", hidden: true},
 					{"name": "DIAMETER", "hidden": true}
 				]
@@ -268,8 +268,8 @@ var config = {
 			"tooltipField": "Character",
 			"outFields": [
 				{"type": "OID",	"name": "FID"},
-				{"name": "Species", "alias": "species"},
 				{"name": "Character", "alias": "character"},
+				{"name": "Species", "alias": "species"},
 				{"name": "Location", "alias": "location"},
 				{"name": "Class", "alias": "class"},
 				{"name": "Gender", "alias": "gender"},
