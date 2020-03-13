@@ -113,7 +113,7 @@ var config = {
     "opacity": 1,
     "color": '#727272',
     },
-	  "visible": true,
+	  "visible": false,
 	  "label": {
 	  	"name": "Character",
 	  "minZoom": 14
