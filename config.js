@@ -5,7 +5,7 @@ var config = {
 		"center": [51.531560, -0.156757],
 		"zoom": 4,
 		"attributionControl": true,
-		"zoomControl": false
+		"zoomControl": true
 	},
 	"about": {
 		"title": "About the map",
@@ -26,7 +26,7 @@ var config = {
 		},
 		"TOC": {
 			//http://leafletjs.com/reference-1.0.2.html#control-layers-option
-			"collapsed": false,
+			"collapsed": true,
 			"uncategorisedLabel": "Layers",
 			"position": "topright",
 			"toggleAll": true
