@@ -5,7 +5,7 @@ var config = {
 		"center": [51.531560, -0.156757],
 		"zoom": 4,
 		"attributionControl": true,
-		"zoomControl": true
+		"zoomControl": false
 	},
 	"about": {
 		"title": "About the map",
@@ -26,7 +26,7 @@ var config = {
 		},
 		"TOC": {
 			//http://leafletjs.com/reference-1.0.2.html#control-layers-option
-			"collapsed": true,
+			"collapsed": false,
 			"uncategorisedLabel": "Layers",
 			"position": "topright",
 			"toggleAll": true
@@ -118,7 +118,7 @@ var config = {
     "id": "flush",
     "name": "Flush",
     "type": "geoJSON",
-    "cluster": true,
+    "cluster": false,
     "showCoverageOnHover": true,
     "minZoom": 12,
     "url": "./data/flush.geojson",
