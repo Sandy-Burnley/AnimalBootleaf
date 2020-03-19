@@ -111,7 +111,7 @@ var config = {
 	  "visible": false,
 	  "label": {
 	  	"name": "Character",
-	  "minZoom": 14
+	  "minZoom": 12
 	   }
 	},
 		{
@@ -138,7 +138,7 @@ var config = {
 	  "visible": false,
 	  "label": {
 	  	"name": "Character",
-	  	"minZoom": 14
+	  	"minZoom": 12
 	  }
 	},
 		{
@@ -165,7 +165,7 @@ var config = {
 	  "visible": false,
 	  "label": {
 	  	"name": "Character",
-	  	"minZoom": 14
+	  	"minZoom": 12
 	   }
 	},
 		{
