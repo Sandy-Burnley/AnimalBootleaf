@@ -93,8 +93,7 @@ var config = {
     "type": "geoJSON",
     "cluster": true,
     "showCoverageOnHover": true,
-    "minZoom": 19,
-    "maxzoom": 1,
+    "minZoom": 7,
     "url": "./data/puck.geojson",
     "icon": {
         "iconUrl": "./img/dog.png",
@@ -121,7 +120,7 @@ var config = {
     "type": "geoJSON",
     "cluster": false,
     "showCoverageOnHover": true,
-    "minZoom": 12,
+    "minZoom": 7,
     "url": "./data/flush.geojson",
     "icon": {
         "iconUrl": "./img/dog.png",
@@ -148,7 +147,7 @@ var config = {
     "type": "geoJSON",
     "cluster": true,
     "showCoverageOnHover": true,
-    "minZoom": 12,
+    "minZoom": 7,
     "url": "./data/hound.geojson",
     "icon": {
         "iconUrl": "./img/sherlock.png",
