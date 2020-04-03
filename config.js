@@ -168,6 +168,32 @@ var config = {
 	  	"minZoom": 12
 	   }
 	},
+	{
+    "id": "vanity",
+    "name": "Vanity_Fair",
+    "type": "geoJSON",
+    "cluster": true,
+    "showCoverageOnHover": false,
+    "minZoom": 12,
+    "url": "./data/Vanity_Fair.geojson",
+    "icon": {
+        "iconUrl": "./img/sherlock.png",
+        "iconSize": [24,28]
+    },
+    "style": {
+    "stroke": true,
+    "fillColor": "#00FFFF",
+    "fillOpacity": 0.5,
+    "radius": 10,
+    "weight": 0.5,
+    "opacity": 1,
+    "color": '#727272',
+    },
+	  "visible": false,
+	  "label": {
+	  	"name": "Character",
+	  	"minZoom": 12
+	   },
 		{
 			"id": "Puck_Map",
 			"name": "Puck Attributes (feature)",
