@@ -285,48 +285,55 @@ var config = {
 			"minZoom": 7
 		},
 		{
+			{
 			"id": "Flush",
-			"name": "Flush Attributes (feature)",
-			"type": "agsFeatureLayer",
-			"cluster": false,
-			"showCoverageOnHover": true,
-			"removeOutsideVisibleBounds": true,
+			"name": "Flush Feature Layer (dynamic)",
+			"type": "agsDynamicLayer",
 			"url": "https://services.arcgis.com/uHAHKfH1Z5ye1Oe0/arcgis/rest/services/Flush/FeatureServer",
-			"popup": true,
-			"tooltipField": "Species",
-			"outFields": [
-				{"type": "OID",	"name": "FID"},
-				{"name": "Character", "alias": "character"},
-				{"name": "Species", "alias": "species"},
-				{"name": "Location", "alias": "location"},
-				{"name": "Class", "alias": "class"},
-				{"name": "Gender", "alias": "gender"},
-				{"name": "Author", "alias": "author"},
-				{"name": "Breed_Race", "alias": "race"},
-			],
+			"layers": [17],
+			"format": 'png24',
+			"transparent": true,
+			// "layerDefs": {3:"POP2000 > 1000000"},
+			"useCors": false,
 			"visible": true,
+			"identify": {
+				"layerName": "Flush",
+				"primaryField": "Character",
+				"outFields": [
+					{"name": "Character"},
+					{"name": "POP2007", "alias": "Population", "thousands": true},
+					{"name": "POP07_SQMI", "alias": "Population density", "decimals": 0}
+				],
+				"maxAllowableOffset": 0.001
+			},
 			"queryWidget": {
 				"queries" : [
-					{"name": "COMMON_NAM", "alias": "Common name", "defaultOperator": "starts with"},
-					{"name": "SCIENTIFIC", "alias": "Scientific name"}
+					{"name": "Character"}
+					
 				],
 				"outFields": [
-					{"name": "COMMON_NAM", "alias": "Name"},
-					{"name": "SCIENTIFIC", "alias": "Sci. name"},
-					{"name": "HEIGHT", hidden: true},
-					{"name": "DIAMETER", "hidden": true}
-				]
+					{"name": "Character":true},
+					{"name": "Author": true},
+					{"name": "Title": true},
+					{"name": "Species": true},
+					{"name": "Gender": true},
+					{"name": "Breed_Race": true},
+					{"name": "Class": true},
+					{"name": "Relationship": true},
+					{"name": "Occupation": true},
+					{"name": "Color": true},
+					{"name": "Location": true},
+					{"name": "Assumed_Location": true},
+					{"name": "Longitude": true},
+					{"name": "Latitude": true},
+					{"name": "Longevity": true},
+					{"name": "Quote": true},
+					{"name": "Page_Number": true},
+				],
+				"layerIndex": 17,
+				"maxAllowableOffset": 0.001,
 			},
-			"style": {
-				"stroke": true,
-		    "fillColor": "#00FFFF",
-		    "fillOpacity": 0.5,
-		    "radius": 10,
-		    "weight": 0.5,
-		    "opacity": 1,
-		    "color": '#727272'
-		  },
-			"minZoom": 7
+			"maxZoom": 10,
 		},
 			{
 			"id": "Vanity_Fair",
