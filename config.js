@@ -67,11 +67,11 @@ var config = {
 	"tocCategories": [
 		{
 			"name": "GeoJSON layers",
-			"layers": ["puck", "flush", "hound", "Vanity_Fair"]
+			"layers": ["Puck_Map", "Hounds", "Flush", "Vanity_Fair"]
 		},
 		{
 			"name": "ArcGIS Layers",
-			"layers" : ["Puck_Map", "Hounds", "Flush", "Vanity_Fair"]
+			"layers" : ["puck", "flush", "hound", "Vanity_Fair"]
 		},
 	],
 	"projections": [
