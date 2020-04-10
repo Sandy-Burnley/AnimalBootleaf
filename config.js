@@ -300,9 +300,24 @@ var config = {
 				"layerName": "Flush",
 				"primaryField": "Character",
 				"outFields": [
-					{"name": "Character"},
-					{"name": "POP2007", "alias": "Population", "thousands": true},
-					{"name": "POP07_SQMI", "alias": "Population density", "decimals": 0}
+					{"type": "OID",	"name": "FID"},
+					{"name": "Character":true},
+					{"name": "Author": true},
+					{"name": "Title": true},
+					{"name": "Species": true},
+					{"name": "Gender": true},
+					{"name": "Breed_Race": true},
+					{"name": "Class": true},
+					{"name": "Relationship": true},
+					{"name": "Occupation": true},
+					{"name": "Color": true},
+					{"name": "Location": true},
+					{"name": "Assumed_Location": true},
+					{"name": "Longitude": true},
+					{"name": "Latitude": true},
+					{"name": "Longevity": true},
+					{"name": "Quote": true},
+					{"name": "Page_Number": true}
 				],
 				"maxAllowableOffset": 0.001
 			},
@@ -328,7 +343,7 @@ var config = {
 					{"name": "Latitude": true},
 					{"name": "Longevity": true},
 					{"name": "Quote": true},
-					{"name": "Page_Number": true},
+					{"name": "Page_Number": true}
 				],
 				"layerIndex": 17,
 				"maxAllowableOffset": 0.001,
