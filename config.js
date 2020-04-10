@@ -67,11 +67,11 @@ var config = {
 	"tocCategories": [
 		{
 			"name": "GeoJSON layers",
-			"layers": ["puck", "flush", "hound"]
+			"layers": ["puck", "flush", "hound", "Vanity_Fair"]
 		},
 		{
 			"name": "ArcGIS Layers",
-			"layers" : ["Puck_Map", "Hounds", "Flush"]
+			"layers" : ["Puck_Map", "Hounds", "Flush", "Vanity_Fair"]
 		},
 	],
 	"projections": [
@@ -166,6 +166,33 @@ var config = {
 	  "label": {
 	  	"name": "Character",
 	  	"minZoom": 12
+	   }
+	},
+			{
+    "id": "Vanity_Fair",
+    "name": "Vanity Fair",
+    "type": "geoJSON",
+    "cluster": true,
+    "showCoverageOnHover": false,
+    "minZoom": 12,
+    "url": "./data/Vanity_Fair.geojson",
+    "icon": {
+        "iconUrl": "./img/moneybags.png",
+        "iconSize": [24,28]
+    },
+    "style": {
+    "stroke": true,
+    "fillColor": "#00FFFF",
+    "fillOpacity": 0.5,
+    "radius": 10,
+    "weight": 0.5,
+    "opacity": 1,
+    "color": '#727272',
+    },
+	  "visible": false,
+	  "label": {
+	  	"name": "Character",
+	  "minZoom": 12
 	   }
 	},
 
