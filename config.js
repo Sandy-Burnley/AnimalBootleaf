@@ -67,7 +67,7 @@ var config = {
 	"tocCategories": [
 		{
 			"name": "GeoJSON layers",
-			"layers": ["puck", "flush", "hound", "Vanity_Fair"]
+			"layers": ["puck", "flush", "hound", "vanityfair"]
 		},
 		{
 			"name": "ArcGIS Layers",
@@ -169,13 +169,13 @@ var config = {
 	   }
 	},
 			{
-    "id": "Vanity_Fair",
+    "id": "vanityfair",
     "name": "Vanity Fair",
     "type": "geoJSON",
     "cluster": true,
     "showCoverageOnHover": false,
     "minZoom": 12,
-    "url": "./data/Vanity_Fair.geojson",
+    "url": "./data/vanityfair.geojson",
     "icon": {
         "iconUrl": "./img/moneybags.png",
         "iconSize": [24,28]
