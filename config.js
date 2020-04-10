@@ -327,6 +327,50 @@ var config = {
 		    "color": '#727272'
 		  },
 			"minZoom": 7
+		},
+			{
+			"id": "Vanity_Fair",
+			"name": "Vanity Fair Attributes (feature)",
+			"type": "agsFeatureLayer",
+			"cluster": false,
+			"showCoverageOnHover": false,
+			"removeOutsideVisibleBounds": true,
+			"url": "https://services.arcgis.com/uHAHKfH1Z5ye1Oe0/arcgis/rest/services/Vanity_Fair/FeatureServer",
+			"popup": true,
+			"tooltipField": "Character",
+			"outFields": [
+				{"type": "OID",	"name": "FID"},
+				{"name": "Character", "alias": "character"},
+				{"name": "Species", "alias": "species"},
+				{"name": "Location", "alias": "location"},
+				{"name": "Class", "alias": "class"},
+				{"name": "Gender", "alias": "gender"},
+				{"name": "Author", "alias": "author"},
+				{"name": "Breed_Race", "alias": "race"},
+			],
+			"visible": true,
+			"queryWidget": {
+				"queries" : [
+					{"name": "Character", "alias": "Character", "defaultOperator": "starts with"},
+					{"name": "Species", "alias": "species"}
+				],
+				"outFields": [
+					{"name": "Character", "alias": "character"},
+					{"name": "Species", "alias": "species"},
+					{"name": "HEIGHT", hidden: true},
+					{"name": "DIAMETER", "hidden": true}
+				]
+			},
+			"style": {
+				"stroke": true,
+		    "fillColor": "#00FFFF",
+		    "fillOpacity": 0.5,
+		    "radius": 10,
+		    "weight": 0.5,
+		    "opacity": 1,
+		    "color": '#727272'
+		  },
+			"minZoom": 7
 		}
 		
 
