@@ -276,6 +276,15 @@
 
 <!-- the configuration file holding this app's customisations -->
 <script src="config.js"></script>
+ 
+<!-- trying to add feature layer --> 
+ <script>
+         L.esri.basemapLayer('Streets').addTo(map);
+
+    const portlandHeritageTrees = L.esri.featureLayer({
+      url: 'https://www.portlandmaps.com/arcgis/rest/services/Public/Parks_Misc/MapServer/21/'
+    }).addTo(map);
+ </script> 
 
 </body>
 </html>
