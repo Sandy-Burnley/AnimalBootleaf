@@ -7,27 +7,27 @@ function beforeMapLoads(){
 
 	// // Create a layer which is based on a query string in the URL - this shows the US state based on the query
 	// // value, eg bootleaf.html/?query=california
-// var statesConfig = {
-	// 	"id": "us_states",
-	// 	"name": "States",
-	// 	"type": "agsDynamicLayer",
-	// 	"url": "http://sampleserver1.arcgisonline.com/ArcGIS/rest/services/Demographics/ESRI_Census_USA/MapServer/",
-	// 	"layers": [5],
+// var houndsConfig = {
+	// 	"id": "Hounds",
+	// 	"name": "Hounds",
+	// 	"type": "agsFeatureLayer",
+	// 	"url": "https://services.arcgis.com/uHAHKfH1Z5ye1Oe0/arcgis/rest/services/Hounds/FeatureServer",
+	// 	"layers": [19],
 	// 	"useCors": false,
 	// 	"visible": true
 	// }
 
 	// var query = getURLParameter('query');
 	// if(query) {
-	// 	statesConfig.layerDefs = "5: STATE_NAME = '" + query + "'";
-	// 	statesConfig.name += " (" + query + ")";
+	// 	houndsConfig.layerDefs = "19: Title = '" + query + "'";
+	// 	houndsConfig.name += " (" + query + ")";
 	// }
 
 	// // Add this layer to the TOC and map.
-	 // config.layers.push(statesConfig);
+	 // config.layers.push(houndsConfig);
 	// for (i in config.tocCategories){
 	// 	if (config.tocCategories[i]['name'] === 'ArcGIS Layers') {
-	// 		config.tocCategories[i]['layers'].push(statesConfig.id);
+	// 		config.tocCategories[i]['layers'].push(houndsConfig.id);
 	// 	}
 	// }
 	
