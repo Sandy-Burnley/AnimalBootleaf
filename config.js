@@ -1,5 +1,5 @@
 var config = {
-	"title": "Mapping Animal Presence",
+	"title": "Map",
 	"start": {
 		// "maxZoom": 16,
 		"center": [51.531560, -0.156757],
