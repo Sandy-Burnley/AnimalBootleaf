@@ -71,7 +71,7 @@ var config = {
 		},
 		{
 			"name": "ArcGIS Layers",
-			"layers" : ["Puck_Map", "Hounds", "Flush", "Vanity_Fair"]
+			"layers" : ["Puck_Map", "Hound", "Flush", "Vanity_Fair"]
 		},
 	],
 	"projections": [
@@ -241,8 +241,8 @@ var config = {
 			"minZoom": 7
 		},
 		{
-			"id": "Hounds",
-			"name": "Hounds Attributes (feature)",
+			"id": "Hound",
+			"name": "Hound Attributes (feature)",
 			"type": "agsFeatureLayer",
 			"cluster": true,
 			"showCoverageOnHover": false,
