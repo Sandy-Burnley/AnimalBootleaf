@@ -40,7 +40,7 @@ var houndsConfig = {
 
 function afterMapLoads(){
 	bootleaf.map.on("zoomend", function(evt){
-		if (bootleaf.currentBasemap === 'Gray'){
+		if (bootleaf.currentBasemap === 'Light Gray'){
 			if (evt.target._zoom >= 17) {
 				setBasemap({"type": 'esri', "id": 'Streets'});
 				$.growl.warning({ title: "Basemap change", message: "The grayscale basemap is not available at this scale"});
