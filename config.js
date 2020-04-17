@@ -249,28 +249,39 @@ var config = {
 			"removeOutsideVisibleBounds": true,
 			"url": "https://services.arcgis.com/uHAHKfH1Z5ye1Oe0/arcgis/rest/services/Hounds/FeatureServer",
 			"popup": true,
-			"tooltipField": "Character",
 			"outFields": [
 				{"type": "OID",	"name": "FID"},
-				{"name": "Species", "alias": "species"},
-				{"name": "Character", "alias": "character"},
-				{"name": "Location", "alias": "location"},
-				{"name": "Class", "alias": "class"},
-				{"name": "Gender", "alias": "gender"},
-				{"name": "Author", "alias": "author"},
-				{"name": "Breed_Race", "alias": "race"},
+				{"name": "Title"},
+				{"name": "Author"},
+				{"name": "Character"},
+				{"name": "Species"},
+				{"name": "Gender"},
+				{"name": "Breed_Race"},
+				{"name": "Class"},
+				{"name": "Relationship"},
+				{"name": "Occupation"},
+				{"name": "Color"},
+				{"name": "Location"},
+				{"name": "Assumed_Location", "alias": "Assumed Location"},
+				{"name": "Longitude"},
+				{"name": "Latitude"},
+				{"name": "Degrees"},
+				{"name": "Longevity"},
+				{"name": "Description"},
+				{"name": "Page_Number", "alias": "Page Number"},
+				{"name": "Marginalized_Associates", "alias": "Marginalized Associates"},
 			],
 			"visible": true,
 			"queryWidget": {
 				"queries" : [
-					{"name": "COMMON_NAM", "alias": "Common name", "defaultOperator": "starts with"},
-					{"name": "SCIENTIFIC", "alias": "Scientific name"}
+					{"name": "Title", "defaultOperator": "starts with"},
+					{"name": "Character"}
 				],
 				"outFields": [
-					{"name": "COMMON_NAM", "alias": "Name"},
-					{"name": "SCIENTIFIC", "alias": "Sci. name"},
-					{"name": "HEIGHT", hidden: true},
-					{"name": "DIAMETER", "hidden": true}
+					{"name": "Title"},
+					{"name": "Author"},
+					{"name": "Character"},
+					{"name": "Species"}
 				]
 			},
 			"style": {
