@@ -18,10 +18,10 @@ function beforeMapLoads(){
 	 	"visible": true
 	 }
 
-	// var query = getURLParameter('query');
-	// if(query) {
-	// 	statesConfig.layerDefs = "5: STATE_NAME = '" + query + "'";
-	// 	statesConfig.name += " (" + query + ")";
+	 var query = getURLParameter('query');
+	 if(query) {
+	 	houndConfig.layerDefs = "19: Title = '" + query + "'";
+	 	houndConfig.name += " (" + query + ")";
 	// }
 
 	// // Add this layer to the TOC and map.
