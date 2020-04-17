@@ -9,8 +9,8 @@ function beforeMapLoads(){
 	// // Create a layer which is based on a query string in the URL - this shows the US state based on the query
 	// // value, eg bootleaf.html/?query=california
 	 var houndConfig = {
-	 	"id": "Hounds",
-	 	"name": "Hounds",
+	 	"id": "Hound",
+	 	"name": "Hound",
 	 	"type": "agsFeatureLayer",
 	 	"url": "https://services.arcgis.com/uHAHKfH1Z5ye1Oe0/arcgis/rest/services/Hounds/FeatureServer",
 	 	"layers": [19],
