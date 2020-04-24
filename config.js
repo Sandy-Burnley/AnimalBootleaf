@@ -138,6 +138,10 @@ var config = {
 	  "visible": false,
 	  "label": {
 	  	"name": "Character",
+		"name": "Species",
+		"name": "Gender",
+		"name": "Race",
+		  
 	  	"minZoom": 12
 	  }
 	},
