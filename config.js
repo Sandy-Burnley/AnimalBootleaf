@@ -79,6 +79,22 @@ var config = {
 			"layers" : ["PuckSpecies","PuckClass", "PuckGender", "PuckRace"],
 			"exclusive": true
 		},
+		{
+			"name": "Flush Attributes",
+			"layers" : ["FlushSpecies","FlushClass", "FlushGender", "FlushRace"],
+			"exclusive": true
+		},
+		{
+			"name": "Hound Attributes",
+			"layers" : ["HoundSpecies","HoundClass", "HoundGender", "HoundRace"],
+			"exclusive": true
+		},
+		{
+			"name": "Vanity Fair Attributes",
+			"layers" : ["VanitySpecies","VanityClass", "VanityGender", "VanityRace"],
+			"exclusive": true
+		}
+		
 	],
 	"projections": [
 		{4269: '+proj=longlat +ellps=GRS80 +datum=NAD83 +no_defs '}
@@ -171,7 +187,7 @@ var config = {
     },
 	  "visible": false,
 	  "label": {
-	  	"name": "Race",
+	  	"name": "Breed_Race",
 	  	"minZoom": 12
 	  }
 	},
