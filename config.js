@@ -112,7 +112,26 @@ var config = {
 	  "label": {
 	  	"name": "Character",
 	  "minZoom": 12
+	   },
+	
+	"visible": false,
+	  "label": {
+	  	"name": "Species",
+	  "minZoom": 12
+	   },
+		
+	 "visible": false,
+	  "label": {
+	  	"name": "Gender",
+	  "minZoom": 12
+	   },
+		
+	 "visible": false,
+	  "label": {
+	  	"name": "Race",
+	  "minZoom": 12
 	   }
+		
 	},
 		{
     "id": "flush",
