@@ -73,6 +73,12 @@ var config = {
 			"name": "ArcGIS Layers",
 			"layers" : ["Puck_Map", "Hound", "Flush", "Vanity_Fair"]
 		},
+		
+		{
+			"name": "Puck Attributes",
+			"layers" : ["PuckSpecies","PuckClass", "PuckGender", "PuckRace"],
+			"exclusive": true
+		},
 	],
 	"projections": [
 		{4269: '+proj=longlat +ellps=GRS80 +datum=NAD83 +no_defs '}
@@ -207,7 +213,7 @@ var config = {
 			"removeOutsideVisibleBounds": true,
 			"url": "https://services.arcgis.com/uHAHKfH1Z5ye1Oe0/arcgis/rest/services/PuckMap/FeatureServer",
 			"popup": true,
-			"tooltipField": "Character",
+			"tooltipField": "Species",
 			"outFields": [
 				{"type": "OID",	"name": "FID"},
 				{"name": "Character", "alias": "character"},
