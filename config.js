@@ -72,30 +72,9 @@ var config = {
 		{
 			"name": "ArcGIS Layers",
 			"layers" : ["Puck_Map", "Hound", "Flush", "Vanity_Fair"]
-		},
-		
-		{
-			"name": "Puck Attributes",
-			"layers" : ["PuckSpecies","PuckClass", "PuckGender", "PuckRace"],
-			"exclusive": true
-		},
-		{
-			"name": "Flush Attributes",
-			"layers" : ["FlushSpecies","FlushClass", "FlushGender", "FlushRace"],
-			"exclusive": true
-		},
-		{
-			"name": "Hound Attributes",
-			"layers" : ["HoundSpecies","HoundClass", "HoundGender", "HoundRace"],
-			"exclusive": true
-		},
-		{
-			"name": "Vanity Fair Attributes",
-			"layers" : ["VanitySpecies","VanityClass", "VanityGender", "VanityRace"],
-			"exclusive": true
-		}
-		
-	],
+		},	
+			],
+	
 	"projections": [
 		{4269: '+proj=longlat +ellps=GRS80 +datum=NAD83 +no_defs '}
 	],
@@ -137,114 +116,7 @@ var config = {
 	   }
 		
 	},
-	{
-    "id": "PuckSpecies",
-    "name": "Species",
-    "type": "geoJSON",
-    "cluster": true,
-    "showCoverageOnHover": false,
-    "minZoom": 12,
-    "url": "./data/PuckSpecies.geojson",
-    "icon": {
-        "iconUrl": "./img/dog.png",
-        "iconSize": [24,28]
-    },
-    "style": {
-    "stroke": true,
-    "fillColor": "#00FFFF",
-    "fillOpacity": 0.5,
-    "radius": 10,
-    "weight": 0.5,
-    "opacity": 1,
-    "color": '#727272',
-    },
-	  "visible": false,
-	  "label": {
-	  	"name": "Species",
-	  "minZoom": 12
-	   }
-	},
-		{
-    "id": "PuckRace",
-    "name": "Race",
-    "type": "geoJSON",
-    "cluster": true,
-    "showCoverageOnHover": false,
-    "minZoom": 12,
-    "url": "./data/PuckRace.geojson",
-    "icon": {
-        "iconUrl": "./img/dog.png",
-        "iconSize": [24,28]
-    },
-    "style": {
-    "stroke": true,
-    "fillColor": "#00FFFF",
-    "fillOpacity": 0.5,
-    "radius": 10,
-    "weight": 0.5,
-    "opacity": 1,
-    "color": '#727272',
-    },
-	  "visible": false,
-	  "label": {
-	  	"name": "Breed_Race",
-	  	"minZoom": 12
-	  }
-	},
-		{
-    "id": "PuckClass",
-    "name": "Class",
-    "type": "geoJSON",
-    "cluster": true,
-    "showCoverageOnHover": false,
-    "minZoom": 12,
-    "url": "./data/PuckClass.geojson",
-    "icon": {
-        "iconUrl": "./img/dog.png",
-        "iconSize": [24,28]
-    },
-    "style": {
-    "stroke": true,
-    "fillColor": "#00FFFF",
-    "fillOpacity": 0.5,
-    "radius": 10,
-    "weight": 0.5,
-    "opacity": 1,
-    "color": '#727272',
-    },
-	  "visible": false,
-	  "label": {
-	  	"name": "Class",
-	  	"minZoom": 12
-	   }
-	},
-			{
-    "id": "PuckGender",
-    "name": "Gender",
-    "type": "geoJSON",
-    "cluster": true,
-    "showCoverageOnHover": false,
-    "minZoom": 12,
-    "url": "./data/PuckGender.geojson",
-    "icon": {
-        "iconUrl": "./img/dog.png",
-        "iconSize": [24,28]
-    },
-    "style": {
-    "stroke": true,
-    "fillColor": "#00FFFF",
-    "fillOpacity": 0.5,
-    "radius": 10,
-    "weight": 0.5,
-    "opacity": 1,
-    "color": '#727272',
-    },
-	  "visible": false,
-	  "label": {
-	  	"name": "Gender",
-	  "minZoom": 12
-	   }
-	},
+	
 		{
     "id": "flush",
     "name": "Flush",
