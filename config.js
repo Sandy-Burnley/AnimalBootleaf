@@ -210,7 +210,8 @@ var config = {
     "cluster": true,
     "showCoverageOnHover": false,
     "minZoom": 12,
-    "url": "./data/vanityfair.geojson",
+    "url": "./data/VF_Species.geojson",
+		},
 
 		{
 			"id": "Puck_Map",
@@ -287,6 +288,30 @@ var config = {
 				{"name": "Page_Number", "alias": "Page Number"},
 				{"name": "Marginalized_Associates", "alias": "Marginalized Associates"},
 			],
+				
+			"visible": true,
+			"queryWidget": {
+				"queries" : [
+					{"name": "Title", "defaultOperator": "starts with"},
+					{"name": "Character"}
+				],
+				"outFields": [
+					{"name": "Title"},
+					{"name": "Author"},
+					{"name": "Character"},
+					{"name": "Species"}
+				]
+			},
+			"style": {
+				"stroke": true,
+		    "fillColor": "#00FFFF",
+		    "fillOpacity": 0.5,
+		    "radius": 10,
+		    "weight": 0.5,
+		    "opacity": 1,
+		    "color": '#727272'
+		  },
+			"minZoom": 7
 		},
 	
 			{
@@ -333,6 +358,7 @@ var config = {
 		  },
 			"minZoom": 7
 		}
+			
 		
 
 	]
