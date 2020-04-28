@@ -70,9 +70,13 @@ var config = {
 			"layers": ["puck", "flush", "hound", "vanityfair"]
 		},
 		{
-			"name": "ArcGIS Layers",
-			"layers" : ["Puck_Map", "Hound", "Flush", "Vanity_Fair"]
-		},	
+			"name": "Attribute Table",
+			"layers": ["VF_Species"]
+		},
+		//{
+			//"name": "ArcGIS Layers",
+			//"layers" : ["Puck_Map", "Hound", "Flush", "Vanity_Fair"]
+		//},	
 			],
 	
 	"projections": [
@@ -199,6 +203,14 @@ var config = {
 	  "minZoom": 12
 	   }
 	},
+		{
+    "id": "VF_Species",
+    "name": "VF Species",
+    "type": "geoJSON",
+    "cluster": true,
+    "showCoverageOnHover": false,
+    "minZoom": 12,
+    "url": "./data/vanityfair.geojson",
 
 		{
 			"id": "Puck_Map",
