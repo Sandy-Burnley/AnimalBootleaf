@@ -53,7 +53,7 @@ var config = {
 	// "activeTool": "identify", // options are identify/coordinates/queryWidget
 	"basemaps": ['esriGray', 'esriDarkGray', 'esriStreets', 'OpenStreetMap', "Aerial"],
 	"bing_key": "enter your Bing Maps key",
-	"mapboxKey": "pk.eyJ1IjoiYnVybmxleTIiLCJhIjoiY2s1aWpucm13MDlrcTN0cDRsMHhpaTdzZiJ9.hYC-K6YuQGmhlzU9ERFlQA",
+	//"mapboxKey": "pk.eyJ1IjoiYnVybmxleTIiLCJhIjoiY2s1aWpucm13MDlrcTN0cDRsMHhpaTdzZiJ9.hYC-K6YuQGmhlzU9ERFlQA",
 	// "defaultIcon": {
 	// 	"imagePath": "http://leafletjs.com/examples/custom-icons/",
 	// 	"iconUrl": "leaf-green.png",
