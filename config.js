@@ -255,7 +255,7 @@ var config = {
 		    "opacity": 1,
 		    "color": '#727272'
 		  },
-			"minZoom": 7
+			"minZoom": 16
 		},
 		{
 			"id": "Hound",
@@ -311,7 +311,7 @@ var config = {
 		    "opacity": 1,
 		    "color": '#727272'
 		  },
-			"minZoom": 7
+			"minZoom": 16
 		},
 	
 			{
@@ -356,7 +356,7 @@ var config = {
 		    "opacity": 1,
 		    "color": '#727272'
 		  },
-			"minZoom": 7
+			"minZoom": 16
 		}
 			
 		
