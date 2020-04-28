@@ -264,7 +264,7 @@ var config = {
 			"cluster": true,
 			"showCoverageOnHover": false,
 			"removeOutsideVisibleBounds": true,
-			"url": "https://services.arcgis.com/uHAHKfH1Z5ye1Oe0/arcgis/rest/services/Hounds/FeatureServer",
+			"url": "https://services.arcgis.com/uHAHKfH1Z5ye1Oe0/arcgis/rest/services/Hounds/FeatureServer/0",
 			"popup": true,
 			"outFields": [
 				{"type": "OID",	"name": "FID"},
