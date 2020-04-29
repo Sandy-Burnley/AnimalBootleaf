@@ -69,10 +69,10 @@ var config = {
 			"name": "GeoJSON layers",
 			"layers": ["puck", "flush", "hound", "vanityfair"]
 		},
-// 		{
-// 			"name": "Attribute Table",
-// 			"layers": ["VF_Species"]
-// 		},
+		{
+			"name": "Attribute Table",
+			"layers": ["VF_Species"]
+		},
 // 		{
 // 			"name": "ArcGIS Layers",
 // 			"layers" : ["Puck_Map", "Hound", "Flush", "Vanity_Fair"]
@@ -202,15 +202,33 @@ var config = {
 	  "minZoom": 12
 	   }
 	},
-// 		{
-//     "id": "VF_Species",
-//     "name": "VF Species",
-//     "type": "geoJSON",
-//     "cluster": true,
-//     "showCoverageOnHover": false,
-//     "minZoom": 12,
-//     "url": "./data/VF_Species.geojson",
-// 		},
+		{
+    "id": "VF_Species",
+    "name": "VF Species",
+    "type": "geoJSON",
+    "cluster": true,
+    "showCoverageOnHover": false,
+    "minZoom": 12,
+    "url": "./data/VF_Species.geojson",
+    "icon": {
+        "iconUrl": "./img/moneybags.png",
+        "iconSize": [24,28]
+    },
+    "style": {
+    "stroke": true,
+    "fillColor": "#00FFFF",
+    "fillOpacity": 0.5,
+    "radius": 10,
+    "weight": 0.5,
+    "opacity": 1,
+    "color": '#727272',
+    },
+	  "visible": false,
+	  "label": {
+	  	"name": "Species",
+	  "minZoom": 12
+	   }
+	},
 
 // 		{
 // 			"id": "Puck_Map",
