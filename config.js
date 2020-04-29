@@ -71,8 +71,8 @@ var config = {
 		},
 // 		{
 // 			"name": "Attribute Table",
-// 			"layers": ["PuckSpecies", "VF_Species"]
-//		},
+// 			"layers": ["VF_Species"]
+// 		},
 // 		{
 // 			"name": "ArcGIS Layers",
 // 			"layers" : ["Puck_Map", "Hound", "Flush", "Vanity_Fair"]
@@ -92,7 +92,6 @@ var config = {
 		"stroke": true
 	},
 	"layers": [
-		
 	{
     "id": "puck",
     "name": "Puck",
@@ -118,12 +117,9 @@ var config = {
 	  "label": {
 	  	"name": "Character",
 	  "minZoom": 12
-	   },
+	   }
 		
-		
-
-		
-
+	},
 	
 		{
     "id": "flush",
@@ -364,6 +360,6 @@ var config = {
 // 		}
 			
 		
-]
-	
+
+	]
 }
