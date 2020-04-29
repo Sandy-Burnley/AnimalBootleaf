@@ -118,23 +118,10 @@ var config = {
 	  	"name": "Character",
 	  "minZoom": 12
 	   }
-		]
+		
 	},
 		
- var geojsonFeature = {
-    "type": "Feature",
-    "properties": {
-        "Species": "Dog", "Human", "Parrot", "Badger"
-        "Gender": "Male", "Female"
-        "popupContent": "Does this work?"
-    },
-    "geometry": {
-        "type": "Point",
-        "coordinates": [-104.99404, 39.75621]
-    }
-},
-	
-L.geoJSON(geojsonFeature).addTo(map);
+
 	
 // 		{
 //     "id": "flush",
@@ -375,6 +362,6 @@ L.geoJSON(geojsonFeature).addTo(map);
 // 		}
 			
 		
-
+]
 	
 }
