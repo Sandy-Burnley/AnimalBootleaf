@@ -120,244 +120,257 @@ var config = {
 	   }
 		
 	},
+		
+ var geojsonFeature = {
+    "type": "Feature",
+    "properties": {
+        "Species": "Dog", "Human", "Parrot", "Badger"
+        "Gender": "Male", "Female"
+        "popupContent": "Does this work?"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-104.99404, 39.75621]
+    }
+};
 	
-		{
-    "id": "flush",
-    "name": "Flush",
-    "type": "geoJSON",
-    "cluster": true,
-    "showCoverageOnHover": false,
-    "minZoom": 12,
-    "url": "./data/flush.geojson",
-    "icon": {
-        "iconUrl": "./img/dog.png",
-        "iconSize": [24,28]
-    },
-    "style": {
-    "stroke": true,
-    "fillColor": "#00FFFF",
-    "fillOpacity": 0.5,
-    "radius": 10,
-    "weight": 0.5,
-    "opacity": 1,
-    "color": '#727272',
-    },
-	  "visible": false,
-	  "label": {
-	  	"name": "Character",
+// 		{
+//     "id": "flush",
+//     "name": "Flush",
+//     "type": "geoJSON",
+//     "cluster": true,
+//     "showCoverageOnHover": false,
+//     "minZoom": 12,
+//     "url": "./data/flush.geojson",
+//     "icon": {
+//         "iconUrl": "./img/dog.png",
+//         "iconSize": [24,28]
+//     },
+//     "style": {
+//     "stroke": true,
+//     "fillColor": "#00FFFF",
+//     "fillOpacity": 0.5,
+//     "radius": 10,
+//     "weight": 0.5,
+//     "opacity": 1,
+//     "color": '#727272',
+//     },
+// 	  "visible": false,
+// 	  "label": {
+// 	  	"name": "Character",
 		  
-	  	"minZoom": 12
-	  }
-	},
-		{
-    "id": "hound",
-    "name": "Hound",
-    "type": "geoJSON",
-    "cluster": true,
-    "showCoverageOnHover": false,
-    "minZoom": 12,
-    "url": "./data/hound.geojson",
-    "icon": {
-        "iconUrl": "./img/sherlock.png",
-        "iconSize": [24,28]
-    },
-    "style": {
-    "stroke": true,
-    "fillColor": "#00FFFF",
-    "fillOpacity": 0.5,
-    "radius": 10,
-    "weight": 0.5,
-    "opacity": 1,
-    "color": '#727272',
-    },
-	  "visible": false,
-	  "label": {
-	  	"name": "Character",
-	  	"minZoom": 12
-	   }
-	},
-			{
-    "id": "vanityfair",
-    "name": "Vanity Fair",
-    "type": "geoJSON",
-    "cluster": true,
-    "showCoverageOnHover": false,
-    "minZoom": 12,
-    "url": "./data/vanityfair.geojson",
-    "icon": {
-        "iconUrl": "./img/moneybags.png",
-        "iconSize": [24,28]
-    },
-    "style": {
-    "stroke": true,
-    "fillColor": "#00FFFF",
-    "fillOpacity": 0.5,
-    "radius": 10,
-    "weight": 0.5,
-    "opacity": 1,
-    "color": '#727272',
-    },
-	  "visible": false,
-	  "label": {
-	  	"name": "Character",
-	  "minZoom": 12
-	   }
-	},
-		{
-    "id": "VF_Species",
-    "name": "VF Species",
-    "type": "geoJSON",
-    "cluster": true,
-    "showCoverageOnHover": false,
-    "minZoom": 12,
-    "url": "./data/VF_Species.geojson",
-		},
+// 	  	"minZoom": 12
+// 	  }
+// 	},
+// 		{
+//     "id": "hound",
+//     "name": "Hound",
+//     "type": "geoJSON",
+//     "cluster": true,
+//     "showCoverageOnHover": false,
+//     "minZoom": 12,
+//     "url": "./data/hound.geojson",
+//     "icon": {
+//         "iconUrl": "./img/sherlock.png",
+//         "iconSize": [24,28]
+//     },
+//     "style": {
+//     "stroke": true,
+//     "fillColor": "#00FFFF",
+//     "fillOpacity": 0.5,
+//     "radius": 10,
+//     "weight": 0.5,
+//     "opacity": 1,
+//     "color": '#727272',
+//     },
+// 	  "visible": false,
+// 	  "label": {
+// 	  	"name": "Character",
+// 	  	"minZoom": 12
+// 	   }
+// 	},
+// 			{
+//     "id": "vanityfair",
+//     "name": "Vanity Fair",
+//     "type": "geoJSON",
+//     "cluster": true,
+//     "showCoverageOnHover": false,
+//     "minZoom": 12,
+//     "url": "./data/vanityfair.geojson",
+//     "icon": {
+//         "iconUrl": "./img/moneybags.png",
+//         "iconSize": [24,28]
+//     },
+//     "style": {
+//     "stroke": true,
+//     "fillColor": "#00FFFF",
+//     "fillOpacity": 0.5,
+//     "radius": 10,
+//     "weight": 0.5,
+//     "opacity": 1,
+//     "color": '#727272',
+//     },
+// 	  "visible": false,
+// 	  "label": {
+// 	  	"name": "Character",
+// 	  "minZoom": 12
+// 	   }
+// 	},
+// 		{
+//     "id": "VF_Species",
+//     "name": "VF Species",
+//     "type": "geoJSON",
+//     "cluster": true,
+//     "showCoverageOnHover": false,
+//     "minZoom": 12,
+//     "url": "./data/VF_Species.geojson",
+// 		},
 
-		{
-			"id": "Puck_Map",
-			"name": "Puck Attributes (feature)",
-			"type": "agsFeatureLayer",
-			"cluster": false,
-			"showCoverageOnHover": false,
-			"removeOutsideVisibleBounds": true,
-			"url": "https://services.arcgis.com/uHAHKfH1Z5ye1Oe0/arcgis/rest/services/PuckMap/FeatureServer",
-			"popup": true,
-			"tooltipField": "Species",
-			"outFields": [
-				{"type": "OID",	"name": "FID"},
-				{"name": "Character", "alias": "character"},
-				{"name": "Species", "alias": "species"},
-				{"name": "Location", "alias": "location"},
-				{"name": "Class", "alias": "class"},
-				{"name": "Gender", "alias": "gender"},
-				{"name": "Author", "alias": "author"},
-				{"name": "Breed_Race", "alias": "race"},
-			],
-			"visible": true,
-			"queryWidget": {
-				"queries" : [
-					{"name": "Character", "alias": "Character", "defaultOperator": "starts with"},
-					{"name": "Species", "alias": "species"}
-				],
-				"outFields": [
-					{"name": "Character", "alias": "character"},
-					{"name": "Species", "alias": "species"},
-					{"name": "HEIGHT", hidden: true},
-					{"name": "DIAMETER", "hidden": true}
-				]
-			},
-			"style": {
-				"stroke": true,
-		    "fillColor": "#00FFFF",
-		    "fillOpacity": 0.5,
-		    "radius": 10,
-		    "weight": 0.5,
-		    "opacity": 1,
-		    "color": '#727272'
-		  },
-			"minZoom": 16
-		},
-		{
-			"id": "Hound",
-			"name": "Hound Attributes (feature)",
-			"type": "agsFeatureLayer",
-			"cluster": true,
-			"showCoverageOnHover": false,
-			"removeOutsideVisibleBounds": true,
-			"url": "https://services.arcgis.com/uHAHKfH1Z5ye1Oe0/arcgis/rest/services/Hounds/FeatureServer/0",
-			"popup": true,
-			"outFields": [
-				{"type": "OID",	"name": "FID"},
-				{"name": "Title"},
-				{"name": "Author"},
-				{"name": "Character"},
-				{"name": "Species"},
-				{"name": "Gender"},
-				{"name": "Breed_Race"},
-				{"name": "Class"},
-				{"name": "Relationship"},
-				{"name": "Occupation"},
-				{"name": "Color"},
-				{"name": "Location"},
-				{"name": "Assumed_Location", "alias": "Assumed Location"},
-				{"name": "Longitude"},
-				{"name": "Latitude"},
-				{"name": "Degrees"},
-				{"name": "Longevity"},
-				{"name": "Description"},
-				{"name": "Page_Number", "alias": "Page Number"},
-				{"name": "Marginalized_Associates", "alias": "Marginalized Associates"},
-			],
+// 		{
+// 			"id": "Puck_Map",
+// 			"name": "Puck Attributes (feature)",
+// 			"type": "agsFeatureLayer",
+// 			"cluster": false,
+// 			"showCoverageOnHover": false,
+// 			"removeOutsideVisibleBounds": true,
+// 			"url": "https://services.arcgis.com/uHAHKfH1Z5ye1Oe0/arcgis/rest/services/PuckMap/FeatureServer",
+// 			"popup": true,
+// 			"tooltipField": "Species",
+// 			"outFields": [
+// 				{"type": "OID",	"name": "FID"},
+// 				{"name": "Character", "alias": "character"},
+// 				{"name": "Species", "alias": "species"},
+// 				{"name": "Location", "alias": "location"},
+// 				{"name": "Class", "alias": "class"},
+// 				{"name": "Gender", "alias": "gender"},
+// 				{"name": "Author", "alias": "author"},
+// 				{"name": "Breed_Race", "alias": "race"},
+// 			],
+// 			"visible": true,
+// 			"queryWidget": {
+// 				"queries" : [
+// 					{"name": "Character", "alias": "Character", "defaultOperator": "starts with"},
+// 					{"name": "Species", "alias": "species"}
+// 				],
+// 				"outFields": [
+// 					{"name": "Character", "alias": "character"},
+// 					{"name": "Species", "alias": "species"},
+// 					{"name": "HEIGHT", hidden: true},
+// 					{"name": "DIAMETER", "hidden": true}
+// 				]
+// 			},
+// 			"style": {
+// 				"stroke": true,
+// 		    "fillColor": "#00FFFF",
+// 		    "fillOpacity": 0.5,
+// 		    "radius": 10,
+// 		    "weight": 0.5,
+// 		    "opacity": 1,
+// 		    "color": '#727272'
+// 		  },
+// 			"minZoom": 16
+// 		},
+// 		{
+// 			"id": "Hound",
+// 			"name": "Hound Attributes (feature)",
+// 			"type": "agsFeatureLayer",
+// 			"cluster": true,
+// 			"showCoverageOnHover": false,
+// 			"removeOutsideVisibleBounds": true,
+// 			"url": "https://services.arcgis.com/uHAHKfH1Z5ye1Oe0/arcgis/rest/services/Hounds/FeatureServer/0",
+// 			"popup": true,
+// 			"outFields": [
+// 				{"type": "OID",	"name": "FID"},
+// 				{"name": "Title"},
+// 				{"name": "Author"},
+// 				{"name": "Character"},
+// 				{"name": "Species"},
+// 				{"name": "Gender"},
+// 				{"name": "Breed_Race"},
+// 				{"name": "Class"},
+// 				{"name": "Relationship"},
+// 				{"name": "Occupation"},
+// 				{"name": "Color"},
+// 				{"name": "Location"},
+// 				{"name": "Assumed_Location", "alias": "Assumed Location"},
+// 				{"name": "Longitude"},
+// 				{"name": "Latitude"},
+// 				{"name": "Degrees"},
+// 				{"name": "Longevity"},
+// 				{"name": "Description"},
+// 				{"name": "Page_Number", "alias": "Page Number"},
+// 				{"name": "Marginalized_Associates", "alias": "Marginalized Associates"},
+// 			],
 				
-			"visible": true,
-			"queryWidget": {
-				"queries" : [
-					{"name": "Title", "defaultOperator": "starts with"},
-					{"name": "Character"}
-				],
-				"outFields": [
-					{"name": "Title"},
-					{"name": "Author"},
-					{"name": "Character"},
-					{"name": "Species"}
-				]
-			},
-			"style": {
-				"stroke": true,
-		    "fillColor": "#00FFFF",
-		    "fillOpacity": 0.5,
-		    "radius": 10,
-		    "weight": 0.5,
-		    "opacity": 1,
-		    "color": '#727272'
-		  },
-			"minZoom": 16
-		},
+// 			"visible": true,
+// 			"queryWidget": {
+// 				"queries" : [
+// 					{"name": "Title", "defaultOperator": "starts with"},
+// 					{"name": "Character"}
+// 				],
+// 				"outFields": [
+// 					{"name": "Title"},
+// 					{"name": "Author"},
+// 					{"name": "Character"},
+// 					{"name": "Species"}
+// 				]
+// 			},
+// 			"style": {
+// 				"stroke": true,
+// 		    "fillColor": "#00FFFF",
+// 		    "fillOpacity": 0.5,
+// 		    "radius": 10,
+// 		    "weight": 0.5,
+// 		    "opacity": 1,
+// 		    "color": '#727272'
+// 		  },
+// 			"minZoom": 16
+// 		},
 	
-			{
-			"id": "Vanity_Fair",
-			"name": "Vanity Fair Attributes (feature)",
-			"type": "agsFeatureLayer",
-			"cluster": false,
-			"showCoverageOnHover": false,
-			"removeOutsideVisibleBounds": true,
-			"url": "https://services.arcgis.com/uHAHKfH1Z5ye1Oe0/arcgis/rest/services/Vanity_Fair/FeatureServer",
-			"popup": true,
-			"tooltipField": "Character",
-			"outFields": [
-				{"type": "OID",	"name": "FID"},
-				{"name": "Character", "alias": "character"},
-				{"name": "Species", "alias": "species"},
-				{"name": "Location", "alias": "location"},
-				{"name": "Class", "alias": "class"},
-				{"name": "Gender", "alias": "gender"},
-				{"name": "Author", "alias": "author"},
-				{"name": "Breed_Race", "alias": "race"},
-			],
-			"visible": true,
-			"queryWidget": {
-				"queries" : [
-					{"name": "Character", "alias": "Character", "defaultOperator": "starts with"},
-					{"name": "Species", "alias": "species"}
-				],
-				"outFields": [
-					{"name": "Character", "alias": "character"},
-					{"name": "Species", "alias": "species"},
-					{"name": "HEIGHT", hidden: true},
-					{"name": "DIAMETER", "hidden": true}
-				]
-			},
-			"style": {
-				"stroke": true,
-		    "fillColor": "#00FFFF",
-		    "fillOpacity": 0.5,
-		    "radius": 10,
-		    "weight": 0.5,
-		    "opacity": 1,
-		    "color": '#727272'
-		  },
-			"minZoom": 16
-		}
+// 			{
+// 			"id": "Vanity_Fair",
+// 			"name": "Vanity Fair Attributes (feature)",
+// 			"type": "agsFeatureLayer",
+// 			"cluster": false,
+// 			"showCoverageOnHover": false,
+// 			"removeOutsideVisibleBounds": true,
+// 			"url": "https://services.arcgis.com/uHAHKfH1Z5ye1Oe0/arcgis/rest/services/Vanity_Fair/FeatureServer",
+// 			"popup": true,
+// 			"tooltipField": "Character",
+// 			"outFields": [
+// 				{"type": "OID",	"name": "FID"},
+// 				{"name": "Character", "alias": "character"},
+// 				{"name": "Species", "alias": "species"},
+// 				{"name": "Location", "alias": "location"},
+// 				{"name": "Class", "alias": "class"},
+// 				{"name": "Gender", "alias": "gender"},
+// 				{"name": "Author", "alias": "author"},
+// 				{"name": "Breed_Race", "alias": "race"},
+// 			],
+// 			"visible": true,
+// 			"queryWidget": {
+// 				"queries" : [
+// 					{"name": "Character", "alias": "Character", "defaultOperator": "starts with"},
+// 					{"name": "Species", "alias": "species"}
+// 				],
+// 				"outFields": [
+// 					{"name": "Character", "alias": "character"},
+// 					{"name": "Species", "alias": "species"},
+// 					{"name": "HEIGHT", hidden: true},
+// 					{"name": "DIAMETER", "hidden": true}
+// 				]
+// 			},
+// 			"style": {
+// 				"stroke": true,
+// 		    "fillColor": "#00FFFF",
+// 		    "fillOpacity": 0.5,
+// 		    "radius": 10,
+// 		    "weight": 0.5,
+// 		    "opacity": 1,
+// 		    "color": '#727272'
+// 		  },
+// 			"minZoom": 16
+// 		}
 			
 		
 
