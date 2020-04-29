@@ -8,26 +8,26 @@ function beforeMapLoads(){
 
 	// // Create a layer which is based on a query string in the URL - this shows the US state based on the query
 	// // value, eg bootleaf.html/?query=california
-// 	 var houndConfig = {
-// 	 	"id": "Hound",
-// 	 	"name": "Hound",
-// 	 	"type": "agsFeatureLayer",
-// 	 	"url": "https://services.arcgis.com/uHAHKfH1Z5ye1Oe0/arcgis/rest/services/Hounds/FeatureServer",
-// 	 	"layers": [19],
-// 	 	"useCors": false,
-// 	 	"visible": true
-// 	 }
-	var puckConfig = {
-		"id": "PuckSpecies"
-		"name": "Species"
-		"type": "Feature"
-		"properties": {
-        "Species": "Dog",
-        "Gender": "Male",
-        "popupContent": "Does this work?",
-		"url": "./data/PuckSpecies.geojson",
-		"visible": true
-	}
+	 var houndConfig = {
+	 	"id": "Hound",
+	 	"name": "Hound",
+	 	"type": "agsFeatureLayer",
+	 	"url": "https://services.arcgis.com/uHAHKfH1Z5ye1Oe0/arcgis/rest/services/Hounds/FeatureServer",
+	 	"layers": [19],
+	 	"useCors": false,
+	 	"visible": true
+	 }
+// 	var puckConfig = {
+// 		"id": "PuckSpecies"
+// 		"name": "Species"
+// 		"type": "Feature"
+// 		"properties": {
+//         "Species": "Dog",
+//         "Gender": "Male",
+//         "popupContent": "Does this work?",
+// 		"url": "./data/PuckSpecies.geojson",
+// 		"visible": true
+// 	}
 
 	 //var query = getURLParameter('query');
 	 //if(query) {
@@ -36,10 +36,10 @@ function beforeMapLoads(){
 	// }
 
 	// // Add this layer to the TOC and map.
-	 config.layers.push(puckConfig);
+	 config.layers.push(houndConfig);
 	 for (i in config.tocCategories){
-	 	if (config.tocCategories[i]['name'] === 'GeoJSON layers') {
-			config.tocCategories[i]['layers'].push(puckConfig.id);
+	 	if (config.tocCategories[i]['name'] === 'ArcGIS Layers') {
+			config.tocCategories[i]['layers'].push(houndConfig.id);
 	 	}
 	 }
 
