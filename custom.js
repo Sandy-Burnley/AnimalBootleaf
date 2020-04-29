@@ -13,7 +13,7 @@ var geojsonFeature = {
 };
  config.layers.push(geojsonFeature);
  	 for (i in config.tocCategories){
-	 	if (config.tocCategories[i]['name'] === 'Atrribute Layers') {
+	 	if (config.tocCategories[i]['name'] === 'Atrribute Table') {
  			config.tocCategories[i]['layers'].push(geojsonFeature.id);
  	 	}
  	 }
