@@ -71,7 +71,7 @@ var config = {
 		},
 		{
 			"name": "Attribute Table",
-			"layers": ["VF_Species"]
+			"layers": ["VF_Species", "geojsonFeature"]
 		},
 		{
 			"name": "ArcGIS Layers",
