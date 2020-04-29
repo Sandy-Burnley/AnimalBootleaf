@@ -71,7 +71,7 @@ var config = {
 		},
 		{
 			"name": "Attribute Table",
-			"layers": ["VF_Species", "geojsonFeature"]
+			"layers": ["VF_Species"]
 		},
 		{
 			"name": "ArcGIS Layers",
@@ -104,15 +104,15 @@ var config = {
         "iconUrl": "./img/dog.png",
         "iconSize": [24,28]
     },
-    "style": {
-    "stroke": true,
-    "fillColor": "#00FFFF",
-    "fillOpacity": 0.5,
-    "radius": 10,
-    "weight": 0.5,
-    "opacity": 1,
-    "color": '#727272',
-    },
+//     "style": {
+//     "stroke": true,
+//     "fillColor": "#00FFFF",
+//     "fillOpacity": 0.5,
+//     "radius": 10,
+//     "weight": 0.5,
+//     "opacity": 1,
+//     "color": '#727272',
+//     },
 	  "visible": false,
 	  "label": {
 	  	"name": "Character",
