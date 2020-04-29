@@ -69,14 +69,14 @@ var config = {
 			"name": "GeoJSON layers",
 			"layers": ["puck", "flush", "hound", "vanityfair"]
 		},
-		{
-			"name": "Attribute Table",
-			"layers": ["PuckSpecies", "VF_Species"]
+// 		{
+// 			"name": "Attribute Table",
+// 			"layers": ["PuckSpecies", "VF_Species"]
 		},
-		{
-			"name": "ArcGIS Layers",
-			"layers" : ["Puck_Map", "Hound", "Flush", "Vanity_Fair"]
-		},	
+// 		{
+// 			"name": "ArcGIS Layers",
+// 			"layers" : ["Puck_Map", "Hound", "Flush", "Vanity_Fair"]
+// 		},	
 			],
 	
 	"projections": [
@@ -92,146 +92,125 @@ var config = {
 		"stroke": true
 	},
 	"layers": [
-		{
-		    "id": "PuckSpecies",
-		    "name": "Species",
-		    "type": "geoJSON",
-		    "cluster": true,
-		    "showCoverageOnHover": false,
-		    "minZoom": 12,
-		    "url": "./data/PuckSpecies.geojson",
-		 "style": {
-    		"stroke": true,
-    		"fillColor": "#00FFFF",
-    		"fillOpacity": 0.5,
-    		"radius": 10,
-    		"weight": 0.5,
-    		"opacity": 1,
-    		"color": '#727272',
-    		},
-			  "icon": {
-		      "iconUrl": "./img/museum.png",
-		      "iconSize": [24,28]
-			  },
-			"visible": false,
-		   "label": {
-		   	"name": "Species",
-		   	"minZoom": 14
-		   }
-		},
-// 	{
-//     "id": "puck",
-//     "name": "Puck",
-//     "type": "geoJSON",
-//     "cluster": true,
-//     "showCoverageOnHover": false,
-//     "minZoom": 12,
-//     "url": "./data/puck.geojson",
-//     "icon": {
-//         "iconUrl": "./img/dog.png",
-//         "iconSize": [24,28]
-//     },
-//     "style": {
-//     "stroke": true,
-//     "fillColor": "#00FFFF",
-//     "fillOpacity": 0.5,
-//     "radius": 10,
-//     "weight": 0.5,
-//     "opacity": 1,
-//     "color": '#727272',
-//     },
-// 	  "visible": false,
-// 	  "label": {
-// 	  	"name": "Character",
-// 	  "minZoom": 12
-// 	   }
+		
+	{
+    "id": "puck",
+    "name": "Puck",
+    "type": "geoJSON",
+    "cluster": true,
+    "showCoverageOnHover": false,
+    "minZoom": 12,
+    "url": "./data/puck.geojson",
+    "icon": {
+        "iconUrl": "./img/dog.png",
+        "iconSize": [24,28]
+    },
+    "style": {
+    "stroke": true,
+    "fillColor": "#00FFFF",
+    "fillOpacity": 0.5,
+    "radius": 10,
+    "weight": 0.5,
+    "opacity": 1,
+    "color": '#727272',
+    },
+	  "visible": false,
+	  "label": {
+	  	"name": "Character",
+	  "minZoom": 12
+	   },
+		 "visible": false,
+	  "label": {
+	  	"name": "Species",
+	  "minZoom": 12}
+	},
 		
 
 		
 
 	
-// 		{
-//     "id": "flush",
-//     "name": "Flush",
-//     "type": "geoJSON",
-//     "cluster": true,
-//     "showCoverageOnHover": false,
-//     "minZoom": 12,
-//     "url": "./data/flush.geojson",
-//     "icon": {
-//         "iconUrl": "./img/dog.png",
-//         "iconSize": [24,28]
-//     },
-//     "style": {
-//     "stroke": true,
-//     "fillColor": "#00FFFF",
-//     "fillOpacity": 0.5,
-//     "radius": 10,
-//     "weight": 0.5,
-//     "opacity": 1,
-//     "color": '#727272',
-//     },
-// 	  "visible": false,
-// 	  "label": {
-// 	  	"name": "Character",
+		{
+    "id": "flush",
+    "name": "Flush",
+    "type": "geoJSON",
+    "cluster": true,
+    "showCoverageOnHover": false,
+    "minZoom": 12,
+    "url": "./data/flush.geojson",
+    "icon": {
+        "iconUrl": "./img/dog.png",
+        "iconSize": [24,28]
+    },
+    "style": {
+    "stroke": true,
+    "fillColor": "#00FFFF",
+    "fillOpacity": 0.5,
+    "radius": 10,
+    "weight": 0.5,
+    "opacity": 1,
+    "color": '#727272',
+    },
+	  "visible": false,
+	  "label": {
+	  	"name": "Character",
 		  
-// 	  	"minZoom": 12
-// 	  }
-// 	},
-// 		{
-//     "id": "hound",
-//     "name": "Hound",
-//     "type": "geoJSON",
-//     "cluster": true,
-//     "showCoverageOnHover": false,
-//     "minZoom": 12,
-//     "url": "./data/hound.geojson",
-//     "icon": {
-//         "iconUrl": "./img/sherlock.png",
-//         "iconSize": [24,28]
-//     },
-//     "style": {
-//     "stroke": true,
-//     "fillColor": "#00FFFF",
-//     "fillOpacity": 0.5,
-//     "radius": 10,
-//     "weight": 0.5,
-//     "opacity": 1,
-//     "color": '#727272',
-//     },
-// 	  "visible": false,
-// 	  "label": {
-// 	  	"name": "Character",
-// 	  	"minZoom": 12
-// 	   }
-// 	},
-// 			{
-//     "id": "vanityfair",
-//     "name": "Vanity Fair",
-//     "type": "geoJSON",
-//     "cluster": true,
-//     "showCoverageOnHover": false,
-//     "minZoom": 12,
-//     "url": "./data/vanityfair.geojson",
-//     "icon": {
-//         "iconUrl": "./img/moneybags.png",
-//         "iconSize": [24,28]
-//     },
-//     "style": {
-//     "stroke": true,
-//     "fillColor": "#00FFFF",
-//     "fillOpacity": 0.5,
-//     "radius": 10,
-//     "weight": 0.5,
-//     "opacity": 1,
-//     "color": '#727272',
-//     },
-// 	  "visible": false,
-// 	  "label": {
-// 	  	"name": "Character",
-// 	  "minZoom": 12
-// 	   }
-// 	},
+	  	"minZoom": 12
+	  }
+	},
+		{
+    "id": "hound",
+    "name": "Hound",
+    "type": "geoJSON",
+    "cluster": true,
+    "showCoverageOnHover": false,
+    "minZoom": 12,
+    "url": "./data/hound.geojson",
+    "icon": {
+        "iconUrl": "./img/sherlock.png",
+        "iconSize": [24,28]
+    },
+    "style": {
+    "stroke": true,
+    "fillColor": "#00FFFF",
+    "fillOpacity": 0.5,
+    "radius": 10,
+    "weight": 0.5,
+    "opacity": 1,
+    "color": '#727272',
+    },
+	  "visible": false,
+	  "label": {
+	  	"name": "Character",
+	  	"minZoom": 12
+	   }
+	},
+			{
+    "id": "vanityfair",
+    "name": "Vanity Fair",
+    "type": "geoJSON",
+    "cluster": true,
+    "showCoverageOnHover": false,
+    "minZoom": 12,
+    "url": "./data/vanityfair.geojson",
+    "icon": {
+        "iconUrl": "./img/moneybags.png",
+        "iconSize": [24,28]
+    },
+    "style": {
+    "stroke": true,
+    "fillColor": "#00FFFF",
+    "fillOpacity": 0.5,
+    "radius": 10,
+    "weight": 0.5,
+    "opacity": 1,
+    "color": '#727272',
+    },
+	  "visible": false,
+	  "label": {
+	  	"name": "Character",
+	  "minZoom": 12
+	   }
+	},
 // 		{
 //     "id": "VF_Species",
 //     "name": "VF Species",
