@@ -71,7 +71,7 @@ var config = {
 		},
 		{
 			"name": "Attribute Table",
-			"layers": ["VF_Species"]
+			"layers": ["PuckSpecies", "VF_Species"]
 		},
 		{
 			"name": "ArcGIS Layers",
@@ -120,6 +120,20 @@ var config = {
 	   }
 		
 	},
+		{
+    "id": "PuckSpecies",
+    "name": "Species",
+    "type": "Feature",
+    "properties": {
+        "Species": "Dog",
+        "Gender": "Male",
+        "popupContent": "Does this work?"
+    },
+    "cluster": true,
+    "showCoverageOnHover": false,
+    "minZoom": 12,
+    "url": "./data/PuckSpecies.geojson",
+		},
 		
 
 	
