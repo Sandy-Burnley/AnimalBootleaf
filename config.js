@@ -118,6 +118,11 @@ var config = {
 	  	"name": "Character",
 	  "minZoom": 12
 	   }
+		 "visible": false,
+	  "label": {
+	  	"name": "Species",
+	  "minZoom": 12
+	   }
 		
 	},
 	
