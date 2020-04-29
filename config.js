@@ -72,7 +72,7 @@ var config = {
 // 		{
 // 			"name": "Attribute Table",
 // 			"layers": ["PuckSpecies", "VF_Species"]
-		},
+//		},
 // 		{
 // 			"name": "ArcGIS Layers",
 // 			"layers" : ["Puck_Map", "Hound", "Flush", "Vanity_Fair"]
