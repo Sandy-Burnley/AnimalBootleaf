@@ -118,7 +118,7 @@ var config = {
 	  	"name": "Character",
 	  "minZoom": 12
 	   }
-		
+		]
 	},
 		
  var geojsonFeature = {
@@ -132,7 +132,9 @@ var config = {
         "type": "Point",
         "coordinates": [-104.99404, 39.75621]
     }
-};
+},
+	
+L.geoJSON(geojsonFeature).addTo(map);
 	
 // 		{
 //     "id": "flush",
@@ -374,5 +376,5 @@ var config = {
 			
 		
 
-	]
+	
 }
