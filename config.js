@@ -92,18 +92,45 @@ var config = {
 		"stroke": true
 	},
 	"layers": [
-	{
-    "id": "puck",
-    "name": "Puck",
-    "type": "geoJSON",
-    "cluster": true,
-    "showCoverageOnHover": false,
-    "minZoom": 12,
-    "url": "./data/puck.geojson",
-    "icon": {
-        "iconUrl": "./img/dog.png",
-        "iconSize": [24,28]
-    },
+		{
+		    "id": "PuckSpecies",
+		    "name": "Species",
+		    "type": "geoJSON",
+		    "cluster": true,
+		    "showCoverageOnHover": false,
+		    "minZoom": 12,
+		    "url": "./data/PuckSpecies.geojson",
+		 "style": {
+    		"stroke": true,
+    		"fillColor": "#00FFFF",
+    		"fillOpacity": 0.5,
+    		"radius": 10,
+    		"weight": 0.5,
+    		"opacity": 1,
+    		"color": '#727272',
+    		},
+			  "icon": {
+		      "iconUrl": "./img/museum.png",
+		      "iconSize": [24,28]
+			  },
+			"visible": false,
+		   "label": {
+		   	"name": "Species",
+		   	"minZoom": 14
+		   }
+		},
+// 	{
+//     "id": "puck",
+//     "name": "Puck",
+//     "type": "geoJSON",
+//     "cluster": true,
+//     "showCoverageOnHover": false,
+//     "minZoom": 12,
+//     "url": "./data/puck.geojson",
+//     "icon": {
+//         "iconUrl": "./img/dog.png",
+//         "iconSize": [24,28]
+//     },
 //     "style": {
 //     "stroke": true,
 //     "fillColor": "#00FFFF",
@@ -113,27 +140,13 @@ var config = {
 //     "opacity": 1,
 //     "color": '#727272',
 //     },
-	  "visible": false,
-	  "label": {
-	  	"name": "Character",
-	  "minZoom": 12
-	   }
+// 	  "visible": false,
+// 	  "label": {
+// 	  	"name": "Character",
+// 	  "minZoom": 12
+// 	   }
 		
-	},
-		{
-    "id": "PuckSpecies",
-    "name": "Species",
-    "type": "Feature",
-    "properties": {
-        "Species": "Dog",
-        "Gender": "Male",
-        "popupContent": "Does this work?"
-    },
-    "cluster": true,
-    "showCoverageOnHover": false,
-    "minZoom": 12,
-    "url": "./data/PuckSpecies.geojson",
-		},
+
 		
 
 	
