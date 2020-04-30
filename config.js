@@ -71,7 +71,7 @@ var config = {
 		},
 		{
 			"name": "Attribute Table",
-			"layers": ["VF_Species"]
+			"layers": ["Humans", "Horses", "Dogs", "Birds", "Farm_Animals", "Males", "Females"]
 		},
 // 		{
 // 			"name": "ArcGIS Layers",
@@ -202,16 +202,43 @@ var config = {
 	  "minZoom": 12
 	   }
 	},
+// 		{
+//     "id": "VF_Species",
+//     "name": "VF Species",
+//     "type": "geoJSON",
+//     "cluster": true,
+//     "showCoverageOnHover": false,
+//     "minZoom": 12,
+//     "url": "./data/VF_Species.geojson",
+//     "icon": {
+//         "iconUrl": "./img/moneybags.png",
+//         "iconSize": [24,28]
+//     },
+//     "style": {
+//     "stroke": true,
+//     "fillColor": "#00FFFF",
+//     "fillOpacity": 0.5,
+//     "radius": 10,
+//     "weight": 0.5,
+//     "opacity": 1,
+//     "color": '#727272',
+//     },
+// 	  "visible": false,
+// 	  "label": {
+// 	  	"name": "Species",
+// 	  "minZoom": 12
+// 	   }
+// 	},
 		{
-    "id": "VF_Species",
-    "name": "VF Species",
+    "id": "Human",
+    "name": "Humans",
     "type": "geoJSON",
     "cluster": true,
     "showCoverageOnHover": false,
     "minZoom": 12,
-    "url": "./data/VF_Species.geojson",
+    "url": "./data/Human.geojson",
     "icon": {
-        "iconUrl": "./img/moneybags.png",
+        "iconUrl": "./img/dog.png",
         "iconSize": [24,28]
     },
     "style": {
@@ -225,9 +252,9 @@ var config = {
     },
 	  "visible": false,
 	  "label": {
-	  	"name": "Species",
+	  	"name": "Character",
 	  "minZoom": 12
-	   }
+	   }	
 	},
 
 // 		{
