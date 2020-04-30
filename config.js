@@ -256,6 +256,168 @@ var config = {
 	  "minZoom": 12
 	   }	
 	},
+		{
+    "id": "Horses",
+    "name": "Horses",
+    "type": "geoJSON",
+    "cluster": true,
+    "showCoverageOnHover": false,
+    "minZoom": 12,
+    "url": "./data/Horses.geojson",
+    "icon": {
+        "iconUrl": "./img/Horse.png",
+        "iconSize": [24,28]
+    },
+    "style": {
+    "stroke": true,
+    "fillColor": "#00FFFF",
+    "fillOpacity": 0.5,
+    "radius": 10,
+    "weight": 0.5,
+    "opacity": 1,
+    "color": '#727272',
+    },
+	  "visible": false,
+	  "label": {
+	  	"name": "Title",
+	  "minZoom": 12
+	   }	
+	},
+		{
+    "id": "Dogs",
+    "name": "Canines",
+    "type": "geoJSON",
+    "cluster": true,
+    "showCoverageOnHover": false,
+    "minZoom": 12,
+    "url": "./data/Dogs.geojson",
+    "icon": {
+        "iconUrl": "./img/canine.png",
+        "iconSize": [24,28]
+    },
+    "style": {
+    "stroke": true,
+    "fillColor": "#00FFFF",
+    "fillOpacity": 0.5,
+    "radius": 10,
+    "weight": 0.5,
+    "opacity": 1,
+    "color": '#727272',
+    },
+	  "visible": false,
+	  "label": {
+	  	"name": "Title",
+	  "minZoom": 12
+	   }	
+	},
+		{
+    "id": "Birds",
+    "name": "Birds",
+    "type": "geoJSON",
+    "cluster": true,
+    "showCoverageOnHover": false,
+    "minZoom": 12,
+    "url": "./data/Birds.geojson",
+    "icon": {
+        "iconUrl": "./img/Bird.png",
+        "iconSize": [24,28]
+    },
+    "style": {
+    "stroke": true,
+    "fillColor": "#00FFFF",
+    "fillOpacity": 0.5,
+    "radius": 10,
+    "weight": 0.5,
+    "opacity": 1,
+    "color": '#727272',
+    },
+	  "visible": false,
+	  "label": {
+	  	"name": "Title",
+	  "minZoom": 12
+	   }	
+	},
+		{
+    "id": "Farm_Animals",
+    "name": "Farm Animals",
+    "type": "geoJSON",
+    "cluster": true,
+    "showCoverageOnHover": false,
+    "minZoom": 12,
+    "url": "./data/Farm_Animals.geojson",
+    "icon": {
+        "iconUrl": "./img/Farm.png",
+        "iconSize": [24,28]
+    },
+    "style": {
+    "stroke": true,
+    "fillColor": "#00FFFF",
+    "fillOpacity": 0.5,
+    "radius": 10,
+    "weight": 0.5,
+    "opacity": 1,
+    "color": '#727272',
+    },
+	  "visible": false,
+	  "label": {
+	  	"name": "Title",
+	  "minZoom": 12
+	   }	
+	},
+		{
+    "id": "Males",
+    "name": "Males",
+    "type": "geoJSON",
+    "cluster": true,
+    "showCoverageOnHover": false,
+    "minZoom": 12,
+    "url": "./data/Males.geojson",
+    "icon": {
+        "iconUrl": "./img/Male.png",
+        "iconSize": [24,28]
+    },
+    "style": {
+    "stroke": true,
+    "fillColor": "#00FFFF",
+    "fillOpacity": 0.5,
+    "radius": 10,
+    "weight": 0.5,
+    "opacity": 1,
+    "color": '#727272',
+    },
+	  "visible": false,
+	  "label": {
+	  	"name": "Title",
+	  "minZoom": 12
+	   }	
+	},
+		{
+    "id": "Females",
+    "name": "Females",
+    "type": "geoJSON",
+    "cluster": true,
+    "showCoverageOnHover": false,
+    "minZoom": 12,
+    "url": "./data/Females.geojson",
+    "icon": {
+        "iconUrl": "./img/Female.png",
+        "iconSize": [24,28]
+    },
+    "style": {
+    "stroke": true,
+    "fillColor": "#00FFFF",
+    "fillOpacity": 0.5,
+    "radius": 10,
+    "weight": 0.5,
+    "opacity": 1,
+    "color": '#727272',
+    },
+	  "visible": false,
+	  "label": {
+	  	"name": "Title",
+	  "minZoom": 12
+	   }	
+	},
 
 // 		{
 // 			"id": "Puck_Map",
