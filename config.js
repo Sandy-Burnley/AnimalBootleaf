@@ -238,7 +238,7 @@ var config = {
     "minZoom": 12,
     "url": "./data/Human.geojson",
     "icon": {
-        "iconUrl": "./img/dog.png",
+        "iconUrl": "./img/Human.png",
         "iconSize": [24,28]
     },
     "style": {
@@ -252,7 +252,7 @@ var config = {
     },
 	  "visible": false,
 	  "label": {
-	  	"name": "Character",
+	  	"name": "Title",
 	  "minZoom": 12
 	   }	
 	},
