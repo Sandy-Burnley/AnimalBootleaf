@@ -230,13 +230,13 @@ var config = {
 // 	   }
 // 	},
 		{
-    "id": "Human",
+    "id": "Humans",
     "name": "Humans",
     "type": "geoJSON",
     "cluster": true,
     "showCoverageOnHover": false,
     "minZoom": 12,
-    "url": "./data/Human.geojson",
+    "url": "./data/Humans.geojson",
     "icon": {
         "iconUrl": "./img/Human.png",
         "iconSize": [24,28]
