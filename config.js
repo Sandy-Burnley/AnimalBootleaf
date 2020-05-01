@@ -126,7 +126,7 @@ var config = {
     "type": "geoJSON",
     "cluster": true,
     "showCoverageOnHover": false,
-    "minZoom": 12,
+    "minZoom": 5,
     "url": "./data/flush.geojson",
     "icon": {
         "iconUrl": "./img/dog.png",
@@ -154,7 +154,7 @@ var config = {
     "type": "geoJSON",
     "cluster": true,
     "showCoverageOnHover": false,
-    "minZoom": 12,
+    "minZoom": 5,
     "url": "./data/hound.geojson",
     "icon": {
         "iconUrl": "./img/sherlock.png",
@@ -181,7 +181,7 @@ var config = {
     "type": "geoJSON",
     "cluster": true,
     "showCoverageOnHover": false,
-    "minZoom": 12,
+    "minZoom": 5,
     "url": "./data/vanityfair.geojson",
     "icon": {
         "iconUrl": "./img/moneybags.png",
@@ -235,7 +235,7 @@ var config = {
     "type": "geoJSON",
     "cluster": true,
     "showCoverageOnHover": false,
-    "minZoom": 12,
+    "minZoom": 5,
     "url": "./data/Humans.geojson",
     "icon": {
         "iconUrl": "./img/Human.png",
@@ -262,7 +262,7 @@ var config = {
     "type": "geoJSON",
     "cluster": true,
     "showCoverageOnHover": false,
-    "minZoom": 12,
+    "minZoom": 5,
     "url": "./data/Horses.geojson",
     "icon": {
         "iconUrl": "./img/Horse.png",
@@ -289,7 +289,7 @@ var config = {
     "type": "geoJSON",
     "cluster": true,
     "showCoverageOnHover": false,
-    "minZoom": 12,
+    "minZoom": 5,
     "url": "./data/Dogs.geojson",
     "icon": {
         "iconUrl": "./img/canine.png",
@@ -316,7 +316,7 @@ var config = {
     "type": "geoJSON",
     "cluster": true,
     "showCoverageOnHover": false,
-    "minZoom": 12,
+    "minZoom": 5,
     "url": "./data/Birds.geojson",
     "icon": {
         "iconUrl": "./img/Bird.png",
@@ -343,7 +343,7 @@ var config = {
     "type": "geoJSON",
     "cluster": true,
     "showCoverageOnHover": false,
-    "minZoom": 12,
+    "minZoom": 5,
     "url": "./data/Farm_Animals.geojson",
     "icon": {
         "iconUrl": "./img/Farm.png",
@@ -370,7 +370,7 @@ var config = {
     "type": "geoJSON",
     "cluster": true,
     "showCoverageOnHover": false,
-    "minZoom": 12,
+    "minZoom": 5,
     "url": "./data/Males.geojson",
     "icon": {
         "iconUrl": "./img/Male.png",
@@ -397,7 +397,7 @@ var config = {
     "type": "geoJSON",
     "cluster": true,
     "showCoverageOnHover": false,
-    "minZoom": 12,
+    "minZoom": 5,
     "url": "./data/Females.geojson",
     "icon": {
         "iconUrl": "./img/Female.png",
