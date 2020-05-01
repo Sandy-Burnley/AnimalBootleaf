@@ -98,7 +98,7 @@ var config = {
     "type": "geoJSON",
     "cluster": true,
     "showCoverageOnHover": false,
-    "minZoom": 12,
+    "minZoom": 16,
     "url": "./data/puck.geojson",
     "icon": {
         "iconUrl": "./img/dog.png",
