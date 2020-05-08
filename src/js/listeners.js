@@ -73,6 +73,12 @@ $("#about-btn").click(function() {
   return false;
 });
 
+$("#instructions-btn").click(function() {
+  $("#instructionsModal").modal("show");
+  $(".navbar-collapse.in").collapse("hide");
+  return false;
+});
+
 $("#full-extent-btn").click(function() {
   bootleaf.map.setView(config.start.center, config.start.zoom);
   $(".navbar-collapse.in").collapse("hide");
