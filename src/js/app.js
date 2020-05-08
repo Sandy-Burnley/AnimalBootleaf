@@ -85,6 +85,15 @@ $(document).ready(function(){
       $("#aboutContents").html(config.about.contents);
     }
   }
+  //Set the Insturctions page content
+   if (config.instructions !== undefined) {
+    if (config.instructions.title !== undefined) {
+      $("#instructionsTitle").html(config.instructions.title);
+    }
+    if (config.instructions.contents !== undefined) {
+      $("#instructionsContents").html(config.instructions.contents);
+    }
+  }
 
   // Set the style for highlighting features - used by Identify and Query Widget
   bootleaf.highlightStyle = config.highlightStyle || {
