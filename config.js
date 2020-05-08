@@ -13,7 +13,7 @@ var config = {
 	},
 	"instructions": {
 		"title": "How to use this map",
-		"contents": "<p>Click on a box to reveal markers for each text or identity attributes listed in the right sidebar. You can choose the option to select all to reveal all markers on the map, or you can individually isolate boxes to reveal markers in a more organized and legible fashion. Markers can overlap one another for users to explore patterns and relationships between identifiers.</p>"
+		"contents": "<p>Click on a box to reveal markers for each text or identity attributes listed in the right sidebar. You can select the option ALL ON to reveal all the markers on the map. You can also individually isolate check boxes in the right side panel to reveal markers in a more organized and legible fashion. Markers can overlap one another for users to explore patterns and relationships between identifiers.</p>"
 
 	},
 	
