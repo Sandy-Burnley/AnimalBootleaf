@@ -9,8 +9,11 @@ var config = {
 	},
 	"about": {
 		"title": "About the map",
-		"contents": "<p>This map is designed to map human and nonhuman presence across a Victorian landscape in order to allow users to explore how Victorians defined, challenged, and altered what it meant to be human against a nonhuman backdrop. Such humanist ideals can include, but are not limited to, issues of race, class, gender, sexuality, and ability, and how Victorian's perceived these ideals in the precarious zones of nonhuman entanglement and proximity. <br> Using this open source version of Bootleaf, created by Brian McBride and improved by IAG-geo led by Stephen Lead, users can use this map and the associated query widget to target any text or attribute designated within the map.</p>"
+		"contents": "<p>This map is designed to map human and nonhuman presence across a Victorian landscape in order to allow users to explore how Victorians defined, challenged, and altered what it meant to be human against a nonhuman backdrop. Identity markers are mometarily limited to species and sex across five texts. <br> Using this open source version of Bootleaf, created by Brian McBride and improved by IAG-geo led by Stephen Lead, users can use this map to target any text or attribute designated within the sidebar.</p>"
 	},
+	"instructions": {
+		"title": "Instructions",
+		"contents": "<p>Click on a box to reveal markers for each text or identity attributes listed in the right sidebar. You can choose the option to select all to reveal all markers on the map, or you can individually isolate boxes to reveal markers in a more organized and legible fashion. Markers can overlap one another for users to explore patterns and relationships between identifiers.</p>"
 	"controls": {
 		"zoom": {
 			"position": "topleft"
